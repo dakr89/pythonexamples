@@ -59,8 +59,39 @@ st_ring = 'This is Anil full name is Anilkumarreddy with surname Anilkumarreddy 
 # print(substr)
 
 #  getting only number from the text
-phone = "2004-959-559 This is Phone Number"
-substr = re.sub(r'[A-Z][a-z].*$','',phone,1)
-#  or 
-# substr = re.sub(r'\D','',phone)
-print(substr)
+# phone = "2004-959-559 This is Phone Number"
+# substr = re.sub(r'[A-Z][a-z].*$','',phone,1)
+# #  or 
+# # substr = re.sub(r'\D','',phone)
+# print(substr)
+
+d1 = [{
+    "b": 10
+},{"a":29}]
+
+d2 = d1
+
+d2[0]['b'] = 30
+d2[1]['a'] = 99
+
+print(d1[0]['b'])
+print(d1[1]['a'])
+
+import json
+class Foo(object):
+	def to_json(self):
+		k = self.__getattribute__
+		print(k)
+
+
+class kill(Foo):
+	def __init__(self,a,b):
+		self.a = a
+		self.b = b
+
+
+k = kill(1,2)
+k.to_json()
+
+
+

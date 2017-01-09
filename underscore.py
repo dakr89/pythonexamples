@@ -1,28 +1,41 @@
-class A:
-	def __init__(self):
-		print ('from anill')
-	# _anil = 10
-	# print (_anil)
-	# def __method1(self):
-	# 	print('hello from method1')
+# class A:
+# 	def __init__(self):
+# 		print ('from anill')
+# 	# _anil = 10
+# 	# print (_anil)
+# 	# def __method1(self):
+# 	# 	print('hello from method1')
 
 
-	# def method2(self):
-	# 	return self.__method1()
+# 	# def method2(self):
+# 	# 	return self.__method1()
 
-# class B(A):
-# 	def method3(self):
-# 		print('from method3')
+# class B:
+# 	def __init__(self):
+# 		print('hello from init')
 
-# 	def __method1(self):
-# 		print('hello from method1 from B calss')
+# 	def __add__(self):
+# 		print('hello')
+
+	
 
 
-a = A()
-# pr
-int(a)
+# # a = A()
+# # a.__repr__()
+# # a.__str__()
+# # pr
+# # int(a)
 # b = B()
-# # print(dir(A()))
+# b.add()
+print(dir('String'))
 # print(dir(B()))
 
 # b = B()
+# import datetime
+# today = datetime.datetime.now()
+
+# a = str(today)
+# b = repr(today)
+# print(a)
+# print(b)
+
