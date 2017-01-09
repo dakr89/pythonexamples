@@ -1,5 +1,5 @@
 
-
+# import pdb
 class decoratorclass(object):
 	"""docstring for ClassName"""
 	def __init__(self, func,*args):
@@ -10,12 +10,15 @@ class decoratorclass(object):
 
 	def __call__(self,*args):
 		print('from hello')
+		# pdb.set_trace()
 		
-		return self.func(*args)
+		return "<p> {}  </p>".format(self.func(*args))
 
 		
 @decoratorclass
 def calldecorator(x,y):
-	print('hello from calldec func',x+y)
+	return 'hello from calldec func {0} and {1}'.format(x,y)
 
-calldecorator(5,2)
+
+
+print(calldecorator(5,2))
