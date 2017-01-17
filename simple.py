@@ -71,13 +71,61 @@
 
 
 
-name = 'aas'
-if name:
-	raise Exception('get losee')
+# l = []
+
+# import pickle
+
+# # f  = open('kill.pickle','wb')
+
+# # pickle.dump(l,f)
+# # f.close()
 
 
+# k = open('kill.pickle', 'rb')
+# s = pickle.load(k)
+# print(s)
 
+# d1 = [1,2,3,4]
+# d2 = d1
+# d2[1] = 8
+# print(d2)
+# import copy
+# d3 = [1,2,3,[6,7]]
+# d4 = copy.copy(d3)
+# # d4[0]=9
+# # print(d4)
+# # print(d3)
+# d4[3][0] = 8
+# print(d3)
 
+# import copy
+# d3 = [1,2,3,[6,7]]
+# d4 = copy.deepcopy(d3)
+# # d4[0]=9
+# # print(d4)
+# # print(d3)
+# d4[3][0] = 8
+# print(d3)
+# print(d4)
+# k = iter(d4)
+# print(next(k))
+# print(next(k))
+# print(next(k))
+# print(next(k))
+l = []
+f = open('intro.txt','r')
+# for x in f.readlines():
+# 	print(x)
 
+# l2 = set(l)
+# for x in l2:
+# 	print(x,l.count(x))
+from collections import Counter
+cnt = Counter(f.read().split(' '))
+# print(cnt)
+for x in cnt.items():
+	print(x[0], x[1])
+# if 'anil' in f.read():
+# 	print(f.read())
 
 

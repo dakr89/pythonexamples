@@ -1,13 +1,13 @@
-# import os
-# import sys
-# from test1 import kill
+# # # import os
+# # # import sys
+# # # from test1 import kill
 
-# # sys.path.append(os.path.abspath('D:/notebook'))
-# # import hello
+# # # # sys.path.append(os.path.abspath('D:/notebook'))
+# # # # import hello
 
-# kill.anil()
+# # # kill.anil()
 
-# # hello.tt.hee()
+# # # # hello.tt.hee()
 
 
 
@@ -36,42 +36,43 @@ class Employee:
 
 
 
-# e1 = Employee('anil','google')
+# # # e1 = Employee('anil','google')
 
-# print(e1.firstname)
-# print(e1.loca)
+# # # print(e1.firstname)
+# # # print(e1.loca)
 d1_st = 'anil_hcl'
-# d12_st = 'kumar_boa'
-# # name,job = d1_st.split('_')
+# # # d12_st = 'kumar_boa'
+# # # # name,job = d1_st.split('_')
 
 d2 = Employee.par_str(d1_st)
-# # d2 = Employee('kumar','BOA')
-# Employee.set_location('delhi')
+# # # # d2 = Employee('kumar','BOA')
+# # # Employee.set_location('delhi')
 
-# print (Employee.location)
-# print (d2.loca())
-# print (d1.loca())
+# # # print (Employee.location)
+# # # print (d2.loca())
+# # # print (d1.loca())
 
-# # d2 = Employee()
+# # # # d2 = Employee()
 print (d2.firstname)
-# print (Employee.firstname(d1))
+print (d2.loca)
+# # print (Employee.firstname(d1))
 
-# class  developer(Employee):
-# 	location = "USA"
-# 	def __init__(self,name,job,lang):
-# 		super().__init__(name,job)
-# 		# Employee.__init__(slef,name,job)
-# 		self.lang = lang
-# 	def loca(self,expe):
+# # # class  developer(Employee):
+# # # 	location = "USA"
+# # # 	def __init__(self,name,job,lang):
+# # # 		super().__init__(name,job)
+# # # 		# Employee.__init__(slef,name,job)
+# # # 		self.lang = lang
+# # # 	def loca(self,expe):
 
-# 		self.expe = expe
-# 		return 	self.expe+'anilll guess what'+super().location
-
-
+# # # 		self.expe = expe
+# # # 		return 	self.expe+'anilll guess what'+super().location
 
 
-# dev1 = developer('reddy','TCS','python')
 
-# dev2 = developer('dappili','wipro','java')
-# # print(dev1.loca('uk'))
+
+# # # dev1 = developer('reddy','TCS','python')
+
+# # # dev2 = developer('dappili','wipro','java')
+# # # # print(dev1.loca('uk'))
 
