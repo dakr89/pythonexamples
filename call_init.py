@@ -24,23 +24,13 @@
 # # obj_init_call =  init_call()
 # # obj_init_call()
 # init_call()()
-
-class call_init(object):
-	"""docstring for ClassName"""
-	def __init__(self,*args):
-		self.a = args[0]
-		self.b = args[1]
-		print('from init method')
-
-
-	def __call__(self):
-		print("from call function")
-
-
-
-
-
-ci = call_init(1,2)
-ci()
-
-
+def fib(n):
+	a,b = 0,1
+	for i in range(n):
+		a,b = b,a+b
+	return b
+print([fib(i) for  i in range(5)])
+# for x in range(0,5):
+# 	for j in range(x+1):
+# 		print('*', end='')
+# 	print('')

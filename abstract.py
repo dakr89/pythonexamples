@@ -4,7 +4,7 @@ from abc import ABC,abstractmethod
 #  abc is  predefined module in python if want  make a class as abastract you need to inherit the ABC class from abc module
 
 class abc_class(ABC):
-	#  in side abstract calss you can define abstract method and static methods(normal method)
+	#  in side abstract calss you can define abstract method and  methods
 	@abstractmethod
 	def abcmethod1(self):
 		pass

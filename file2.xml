@@ -1,0 +1,1588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v44-2014-04-03.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.4 2014-04-03" file="US20150096123A1-20150409.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20150325" date-publ="20150409">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20150096123</doc-number>
+<kind>A1</kind>
+<date>20150409</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>14569223</doc-number>
+<date>20141212</date>
+</document-id>
+</application-reference>
+<us-application-series-code>14</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>16</class>
+<subclass>G</subclass>
+<main-group>11</main-group>
+<subgroup>04</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20150409</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>47</class>
+<subclass>C</subclass>
+<main-group>21</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20150409</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>16</class>
+<subclass>B</subclass>
+<main-group>2</main-group>
+<subgroup>18</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20150409</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>F</section>
+<class>16</class>
+<subclass>G</subclass>
+<main-group>11</main-group>
+<subgroup>048</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20150409</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>F</section>
+<class>16</class>
+<subclass>B</subclass>
+<main-group>2</main-group>
+<subgroup>185</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20150409</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>47</class>
+<subclass>C</subclass>
+<main-group>21</main-group>
+<subgroup>022</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20150409</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<classification-national>
+<country>US</country>
+<main-classification>  5496</main-classification>
+<further-classification> 24 68  R</further-classification>
+</classification-national>
+<invention-title id="d0e43">Multi-Purpose Adjustable Retaining Device</invention-title>
+<us-related-documents>
+<continuation>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>14298026</doc-number>
+<date>20140606</date>
+</document-id>
+<parent-status>PENDING</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>14569223</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation>
+<continuation-in-part>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>13176806</doc-number>
+<date>20110706</date>
+</document-id>
+<parent-status>ABANDONED</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>14298026</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</continuation-in-part>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>61399175</doc-number>
+<date>20100708</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>Bed Band Store, LLC</orgname>
+<address>
+<city>Dublin</city>
+<state>TX</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Whaley</last-name>
+<first-name>Jamie D.</first-name>
+<address>
+<city>Dublin</city>
+<state>TX</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A multi-purpose adjustable retaining device is disclosed. In one embodiment, a cord having two ends is provided that is composed of an elastomeric material configured to deform elastically upon elongation. Each of ends of the cord are threaded through a cord stop, which permits the length of each end to be adjusted, with any spare cord forming a loop extending from a side of the cord stop opposite the two ends. Suspension clips are respectively slidably connected to each end of the cord in order to grip a material.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="153.75mm" wi="126.92mm" file="US20150096123A1-20150409-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="247.65mm" wi="193.55mm" file="US20150096123A1-20150409-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="256.12mm" wi="195.41mm" file="US20150096123A1-20150409-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="247.23mm" wi="183.81mm" file="US20150096123A1-20150409-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is a continuation of co-pending U.S. patent application Ser. No. 14/298,026, which was filed on Jun. 6, 2014 in the name of Jamie D. Whaley and is entitled &#x201c;Multi-Purpose Adjustable Retaining Device&#x201d;; which is a continuation-in-part of U.S. patent application Ser. No. 13/176,806, which was filed on Jul. 6, 2011 in the name of Jamie D. Whaley and is entitled &#x201c;Multi-Purpose Adjustable Retaining Device&#x201d;; which claims priority from U.S. Patent No. 61/399,175, which was filed on Jul. 8, 2010 in the name of Jamie D. Whaley and is entitled &#x201c;Multi-Purpose Adjustable Retaining Device&#x201d;; all of which are hereby incorporated by reference for all purposes.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">TECHNICAL FIELD OF THE INVENTION</heading>
+<p id="p-0003" num="0002">This invention relates, in general, to the field of retaining articles in place and, more particularly, to the a multi-purpose retaining device for retaining materials such as bed sheets, tarps, table cloths, and similar articles in place.</p>
+<heading id="h-0003" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0004" num="0003">Without limiting the scope of the present disclosure, its background will be described with reference to bed coverings, as an example. Bed coverings and particularly sheets often slip due to loss of elastic, for example. Alternatively, thin, extremely smooth sheets, and flat sheets without an edge may also experience slipping. Sheets that have slipped may lead to discomfort while sleeping and present untidy or careless appearance. Accordingly, a need exists for improvements in the field of retaining articles, such as bed coverings, in place.</p>
+<heading id="h-0004" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0005" num="0004">It would be advantageous to achieve advances in the field of retaining articles, such as bed coverings and sheets, which address slipping. It would also be desirable to enable a mechanical solution that would be easy and convenient to use for retaining all types of articles, while promoting a tidy and organized appearance. To better address one or more of these concerns, a multi-purpose retaining device is disclosed. In one embodiment, a cord having two ends is provided that is composed of an elastomeric material configured to deform elastically upon elongation. Each of the ends of the cord is threaded through a cord stop, which permits the length of each end to be adjusted, with any spare cord forming a loop extending from a side of the cord stop opposite the two ends. Suspension clips are respectively slidably connected to each end of the cord in order to grip a material. In one embodiment of a kit, the multi-purpose adjustable retaining device may be employed with a material, such as bed covering to provide a fitted sheet equivalent. These and other aspects of the invention will be apparent from and elucidated with reference to the embodiments described hereinafter.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0006" num="0005">For a more complete understanding of the features and advantages of the present invention, reference is now made to the detailed description of the invention along with the accompanying figures in which corresponding numerals in the different figures refer to corresponding parts and in which:</p>
+<p id="p-0007" num="0006"><figref idref="DRAWINGS">FIG. 1</figref> is a front perspective view of one embodiment of a multi-purpose retaining device being employed to retain a portion of a bed sheet, as an example, according to the teachings presented herein;</p>
+<p id="p-0008" num="0007"><figref idref="DRAWINGS">FIG. 2A</figref> is a front perspective view of the multi-purpose retaining device depicted in <figref idref="DRAWINGS">FIG. 1</figref> being adjusted by tightening;</p>
+<p id="p-0009" num="0008"><figref idref="DRAWINGS">FIG. 2B</figref> is a side perspective view of the multi-purpose retaining device depicted in <figref idref="DRAWINGS">FIG. 2A</figref> as viewed along line <b>2</b>B-<b>2</b>B;</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. 3A</figref> is a top plan view of the multi-purpose retaining device depicted in <figref idref="DRAWINGS">FIG. 1</figref> in a first operational configuration;</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 3B</figref> is a top plan view of the multi-purpose retaining device depicted in <figref idref="DRAWINGS">FIG. 1</figref> in a second operational configuration;</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 3C</figref> is a top plan view of the multi-purpose retaining device depicted in <figref idref="DRAWINGS">FIG. 1</figref> in a third operational configuration;</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 4A</figref> is a front exploded view of the multi-purpose retaining device depicted in <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 4B</figref> is a front exploded view of one component of the multi-purpose retaining device depicted in <figref idref="DRAWINGS">FIG. 4B</figref>, wherein that one embodiment of the component, a cord, is depicted as elongated;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 5</figref> is a bottom plan view depicting one embodiment of a component, a cord stop, of the multi-purpose retaining device;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 6A</figref> is a cross-sectional view depicting one embodiment of the cord stop in a first operational configuration;</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 6B</figref> is a cross-sectional view of the cord stop in a second operational configuration; and</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 7</figref> is a bottom plan view depicting one embodiment of a component, a suspension clip, of the multi-purpose retaining device.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0019" num="0018">While the making and using of various embodiments of the present invention are discussed in detail below, it should be appreciated that the present invention provides many applicable inventive concepts, which can be embodied in a wide variety of specific contexts. The specific embodiments discussed herein are merely illustrative of specific ways to make and use the invention, and do not delimit the scope of the present invention.</p>
+<p id="p-0020" num="0019">Referring initially to <figref idref="DRAWINGS">FIG. 1</figref>, <figref idref="DRAWINGS">FIG. 2A</figref>, and <figref idref="DRAWINGS">FIG. 2B</figref>, therein is depicted one embodiment of a multi-purpose adjustable retaining device that is schematically illustrated and generally designated <b>10</b>. As shown, the multi-purpose adjustable retaining device <b>10</b> includes a cord <b>12</b>, which has two ends <b>14</b>, <b>16</b>, composed of an elastomeric material configured to deform elastically upon elongation. Each of ends <b>14</b>, <b>16</b> of the cord <b>12</b> are threaded through a cord stop <b>18</b>, which permits the length of the cord <b>12</b> to be adjusted, with any spare cord <b>12</b> forming a loop. Suspension clips <b>20</b>-<b>1</b>, <b>20</b>-<b>2</b>, which may be individually or collectively suspension clips <b>20</b>, are respectively slidably connected to each end <b>14</b>, <b>16</b> of the cord <b>10</b> in order to grip a material.</p>
+<p id="p-0021" num="0020">As depicted, the multi-purpose adjustable retaining device <b>10</b> is gripping a fitted bed sheet S, which over time and through use has lost its elastic edge E. In this manner, the multipurpose adjustable retaining device forms a portion of a kit providing a fitted sheet equivalent for a bed sheet having a non-elastic edge, for example. It should be appreciated that although the multi-purpose adjustable retaining device <b>10</b> is illustrated being utilized to retain a bed sheet under the desired tension, the multi-purpose adjustable retaining device may be employed to provide increased tension and/or fit to a variety of materials. By way of example and not by way of limitation, the multi-purpose adjustable retaining device may be employed with bed coverings, flat sheets, mattress pads, futons, RV beds, travel trailer beds, camper beds, air mattresses, grill covers, tablecloths, furniture covers, pet bedding covers, outdoor equipment covers, car seat covers, boat seat covers, and message tables, for example.</p>
+<p id="p-0022" num="0021">Referring now to <figref idref="DRAWINGS">FIG. 3A</figref>, <figref idref="DRAWINGS">FIG. 3B</figref>, <figref idref="DRAWINGS">FIG. 3C</figref>, <figref idref="DRAWINGS">FIG. 4A</figref>, and <figref idref="DRAWINGS">FIG. 4B</figref>, as discussed, the cord <b>12</b> includes ends <b>14</b>, <b>16</b> and is composed of an elastomeric material <b>30</b> configured to deform elastically upon elongation. As shown, the elastomeric material <b>30</b> includes an original length L<sub>O </sub>and a length after elongation L<sub>E</sub>, wherein LE is greater than L<sub>O</sub>. In one implementation, the modulus of elasticity of the cord <b>12</b> is as follows, expressed by stretch:</p>
+<p id="p-0023" num="0000">
+<br/>
+<?in-line-formulae description="In-line Formulae" end="lead"?>STRETCH=80%<?in-line-formulae description="In-line Formulae" end="tail"?>
+</p>
+<p id="p-0024" num="0000">It should be appreciated, however, that the elasticity as expressed or represented by stretch of the cord <b>12</b> may be between about 65% and about 95%. Further, in one implementation, other characteristics of the cord <b>12</b> may include about &#x215b;&#x2033; diameter cord (+/&#x2212;0.050&#x2033;), including about 30% (+/&#x2212;4%) nylon yarn and about 70% (+/&#x2212;4%) natural rubber with a machine size of about 16 CARR.</p>
+<p id="p-0025" num="0022">The cord stop <b>18</b> divides the cord <b>12</b> into a cord segment <b>32</b> proximate the end <b>14</b>, a cord segment <b>34</b> proximate the end <b>16</b> and a loop segment <b>36</b>. As shown, the initial length L<sub>1-O </sub>of the cord segment <b>32</b> is between about 0 (e.g., <figref idref="DRAWINGS">FIG. 3C</figref>) and about the original length L<sub>0 </sub>(e.g., <figref idref="DRAWINGS">FIG. 3A</figref>) of the cord <b>12</b>. Similarly, the initial length L<sub>2-O </sub>of the cord segment <b>34</b> is between about 0 (e.g., <figref idref="DRAWINGS">FIG. 3A</figref>) and about the original length L<sub>0 </sub>(e.g., <figref idref="DRAWINGS">FIG. 3C</figref>). The loop length L<sub>L-O </sub>of the loop segment is between about 0 (e.g., <figref idref="DRAWINGS">FIG. 3A</figref> or <figref idref="DRAWINGS">FIG. 3C</figref>) and about the original length L<sub>0 </sub>of the cord <b>12</b> (e.g., <figref idref="DRAWINGS">FIG. 3B</figref>). As shown, the sum of the initial length L<sub>1-0 </sub>of the cord segment <b>32</b>, the initial length L<sub>2-0 </sub>of the cord segment <b>34</b>, and the loop length L<sub>L-0 </sub>is equal to the original length L<sub>O </sub>of the cord <b>12</b>. Moreover, the lengths of the cord segments <b>32</b>, <b>34</b> are mutually exclusive.</p>
+<p id="p-0026" num="0023">Continuing to refer to <figref idref="DRAWINGS">FIGS. 3A through 4B</figref>, each of the cord segments <b>32</b>, <b>34</b> as well as the entire cord <b>12</b> has an elongated length. As shown, the cord <b>12</b> has an elongated length L<sub>E</sub>. The cord segments <b>32</b>, <b>34</b> have respective elongated lengths of L<sub>1-E</sub>, and L<sub>2-E</sub>. As shown by comparing <figref idref="DRAWINGS">FIGS. 3A</figref>, <b>3</b>B, and <b>3</b>C for comparative and illustrative purposes, the elongated lengths L<sub>1-E</sub>, and L<sub>2-E </sub>depend on the elasticity, stretch, and the stain of the cord <b>12</b> as well as the lengths L<sub>1-0 </sub>and L<sub>2-0 </sub>of the respective cord segments <b>32</b>, <b>34</b>.</p>
+<p id="p-0027" num="0024">Referring now to <figref idref="DRAWINGS">FIG. 4A</figref> through <figref idref="DRAWINGS">FIG. 6B</figref>, the cord stop <b>18</b> includes a barrel <b>44</b> having a floor member <b>46</b> with a sidewall <b>48</b> extending therefrom. The floor member <b>46</b> includes an interior <b>50</b> and an exterior <b>52</b>. An opening <b>54</b> is defined by the sidewall <b>48</b>. A flange <b>56</b> circumscribes the sidewall <b>48</b> and extends inward therefrom into the opening <b>54</b>. Two pairs of aligned openings <b>58</b>, <b>60</b> and <b>62</b>, <b>64</b> traverse the sidewall <b>48</b>. A plunger <b>66</b> is spring-mounted to the interior <b>50</b> of the barrel <b>44</b> such that the plunger is biased against the floor member <b>46</b>. As shown, in one embodiment, the plunger <b>66</b> includes two channels <b>68</b>, <b>70</b> passing therethrough. A spring <b>72</b> is mounted, in an interposing manner, in between the interior <b>50</b> of the barrel <b>44</b> and the plunger <b>66</b>. As shown by arrow <b>74</b>, the spring <b>72</b> presses the plunger <b>66</b> toward the opening <b>54</b> and the flange <b>56</b>, which restricts the movement of the plunger <b>66</b>. As shown in <figref idref="DRAWINGS">FIG. 6A</figref>, the channels <b>68</b>, <b>70</b> are aligned with the pairs of aligned openings <b>58</b>, <b>60</b> and <b>62</b>, <b>64</b> of the cord stop <b>18</b> when the spring-mounted plunger <b>66</b> is compressed. On the other hand, as shown in <figref idref="DRAWINGS">FIG. 6B</figref> by arrow <b>76</b>, the channels <b>68</b>, <b>70</b> are vertically offset from the pairs of aligned openings <b>58</b>, <b>60</b> and <b>62</b>, <b>64</b> of the cord stop <b>18</b> when the spring-mounted plunger <b>66</b> is relaxed. Further, as depicted in <figref idref="DRAWINGS">FIG. 4A</figref> through <figref idref="DRAWINGS">FIG. 6B</figref>, the ends <b>14</b>, <b>16</b> of the cord <b>12</b> are threaded through the pairs of aligned openings <b>58</b>, <b>60</b> and <b>62</b>, <b>64</b> of the cord stop <b>18</b>.</p>
+<p id="p-0028" num="0025">Referring now to <figref idref="DRAWINGS">FIG. 3A</figref> through <figref idref="DRAWINGS">FIG. 4A</figref> and <figref idref="DRAWINGS">FIG. 7</figref>, crimping loop sleeves <b>80</b>, <b>82</b> are coupled to the respective ends <b>14</b>, <b>16</b> of the cord <b>12</b> by being secured to respective end loops <b>84</b>, <b>86</b> at the ends <b>14</b>, <b>16</b>. As shown, the suspension clips <b>20</b>-<b>1</b>, <b>20</b>-<b>2</b>, which in one embodiment, may be metal suspension clips, are respectively slidably secured to the end loops <b>84</b>, <b>86</b> as shown by arrows <b>88</b>, <b>90</b>. Each of the suspension clips <b>20</b>-<b>1</b> and <b>20</b>-<b>2</b> includes a base member <b>100</b> having teeth <b>102</b>. A slotted flange member <b>104</b> having a slot <b>106</b> extends from the base member <b>100</b>. Further, a pair of opposing flange members <b>108</b> also extend from the base member <b>100</b>. As illustrated, a gripping member <b>110</b> with teeth <b>112</b> is provided. In one embodiment, the teeth <b>110</b>, <b>112</b> include plastic inserts configured to provide a plastic-to-plastic grip therebetween. The teeth <b>112</b> are configured to complement the teeth <b>102</b>. A lever member <b>114</b> includes a pivot member <b>116</b> superposed on the gripper member <b>110</b>. The lever member <b>114</b> is pivotally coupled by a pair of pivot pins <b>118</b> to the opposing side flange members <b>104</b> of the base member <b>100</b>. Rotation of the lever member <b>114</b> around the pivot pins <b>118</b> as shown by arrow <b>120</b> provides a cam action, which tightly locks the gripping member <b>110</b> to the base member <b>100</b>, thereby locking the teeth <b>102</b> and teeth <b>112</b> in engagement about a material.</p>
+<p id="p-0029" num="0026">With reference to <figref idref="DRAWINGS">FIGS. 1 through 7</figref>, in operation, the multi-purpose adjustable retaining device <b>10</b> provides a thumb-finger precision grip platform <b>130</b> and a handle area <b>132</b> for the two-handed selective adjustment of the multi-purpose adjustable retaining device <b>10</b>. Initially, the suspension clips <b>20</b> are coupled to the material, which is depicted as a fitted bed sheet S that has lost the elasticity of elastic edge E. With respect to the thumb-finger precision grip platform <b>130</b>, the exterior <b>52</b> of the floor member <b>46</b> of the barrel <b>44</b> of the cord stop <b>18</b> is sized to provide a finger platform component <b>134</b> of a thumb-finger precision grip platform <b>130</b>. Cooperating therewith, as shown, the plunger <b>66</b> is sized to provide a thumb platform component <b>136</b> of the thumb-finger precision grip platform <b>130</b>. In one embodiment, the thumb-finger precision grip platform <b>130</b> is configured to furnish a subtermino-lateral opposition key grip wherein the pad of the thumb presses against the side of the index finger to hold the cord stop therebetween. Alternatively, the thumb-finger precision grip platform <b>130</b> is configured to provide a subterminal opposition in which the palmar surfaces of the thumb and index finger to hold the cord stop therebetween.</p>
+<p id="p-0030" num="0027">With the individual engaging the thumb-finger precision grip platform with the thumb T and index finger F, the other hand H grasps the loop segment <b>36</b> of the cord <b>12</b> in preparation to adjust the length of the cord segments <b>32</b>, <b>34</b> and loop segment <b>36</b>, and the tension of the loop segments <b>32</b>, <b>34</b>. The plunger <b>66</b> is depressed by the index finger F, permitting the cord <b>12</b> to be selectively and adjustably engaged by the hand H until the desired length of loop segments <b>32</b>, <b>34</b> and tension is realized. As previously discussed, each loop segment <b>34</b>, <b>34</b> of the cord <b>12</b> may be of a different length or the same length, depending on the application.</p>
+<p id="p-0031" num="0028">With respect to the handle area <b>132</b> for the two-handed selective adjustment, a hand may manipulate the length and thereby, the tension, of the cord segments. That is, the thumb-finger precision grip platform <b>130</b> cooperates with the loop segment <b>36</b> at the handle area <b>132</b> to provide one-hand selective actuation of the multi-purpose adjustable retaining device <b>10</b> and, simultaneously, other-hand adjustment of the length of the cord segments <b>32</b>, <b>34</b>. As discussed, the cord segments are configured to deform elastically upon elongation responsive to the suspension clips being coupled to a material.</p>
+<p id="p-0032" num="0029">It should be appreciated that although particular cords, cord stops and suspension clips are depicted in the drawings, other types of cord stops and suspension clips are within the teachings presented herein. By way of example and not by way of limitation, the cord may be a bungee cord with a circular cross-section or generally any type of elastic band. Other materials that may be utilized include nylon, plastic, rubber, string, or any other material. The cord may be one or two cords of various lengths, diameters or measurements. As discussed, the cord may include some elasticity, but in some applications a fixed cord length may be desirable and, in those instances, a non-elastic cord may be used.</p>
+<p id="p-0033" num="0030">The cord stop may be a cord lock of the type defining at least one passage therethrough and adapted to releasably engage a cord by operation of a spring-loaded release button. Cord stops may be obtained in many configurations, some of which have a button-like appearance, and others which have a barrel shape. Similarly, cord stops may include multiple passages therethrough to receive two or more cords. By way of further example, the suspension clips may be a clamp, clasp, clip, hook or loop fastener, button, magnet, or pin, for example.</p>
+<p id="p-0034" num="0031">The order of execution or performance of the methodologies illustrated and described herein is not essential, unless otherwise specified. That is, elements of the methods may be performed in any order, unless otherwise specified, and that the methods may include more or less elements than those disclosed herein. For example, it is contemplated that executing or performing a particular element before, contemporaneously with, or after another element are all possible sequences of execution.</p>
+<p id="p-0035" num="0032">While this invention has been described with reference to illustrative embodiments, this description is not intended to be construed in a limiting sense. Various modifications and combinations of the illustrative embodiments as well as other embodiments of the invention, will be apparent to persons skilled in the art upon reference to the description. It is, therefore, intended that the appended claims encompass any such modifications or embodiments.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A multi-purpose adjustable retaining device comprising:
+<claim-text>a cord having a first end and a second end, the cord being composed of an elastomeric material configured to deform elastically upon elongation, the elastomeric material having an original length L<sub>O </sub>and a length after elongation L<sub>E</sub>, wherein L<sub>E </sub>is greater than L<sub>O</sub>;</claim-text>
+<claim-text>the cord having an elasticity as expressed by stretch between about 65% and about 95%;</claim-text>
+<claim-text>a cord stop comprising:
+<claim-text>a barrel having a floor member with a sidewall extending therefrom, the floor member having an interior and an exterior, the exterior of the floor member sized to provide a finger platform component of a thumb-finger precision grip platform, the sidewall defining an opening in the barrel,</claim-text>
+<claim-text>a flange circumscribing the sidewall and extending inward therefrom into the opening,</claim-text>
+<claim-text>first and second pairs of aligned openings traversing the sidewall,</claim-text>
+<claim-text>a plunger spring-mounted to the interior of the base, the plunger being biased against the base, the plunger having first and second channels passing therethrough,</claim-text>
+<claim-text>a spring mounted to the interior of the base and plunger, the spring pressing the plunger toward the opening and the flange, which restricts the movement thereof,</claim-text>
+<claim-text>the plunger being sized to provide a thumb platform component of a thumb-finger precision grip platform,</claim-text>
+<claim-text>the first and second channels being aligned with the first and second pairs of aligned openings of the cord stop when the spring-mounted plunger is compressed, and</claim-text>
+<claim-text>the first and second channels being vertically offset from the first and second pairs of aligned openings of the cord stop when the spring-mounted plunger is relaxed;</claim-text>
+</claim-text>
+<claim-text>the first and second ends of the cord being threaded through the first and second pairs of aligned openings of the cord stop;</claim-text>
+<claim-text>the cord stop in combination with the first end of the cord defining a first cord segment having an initial length L1I, the cord stop in combination with the second end of the cord defining a second cord segment having an initial length L2I, the cord stop in combination with the cord defining a loop segment having an initial length LSI;</claim-text>
+<claim-text>the initial length L<sub>1-O </sub>of the first cord segment being between about 0 and about the original length L0, the initial length L<sub>2-O </sub>of the second cord segment being between about 0 and about the original length L<sub>0</sub>, the loop length L<sub>L-O </sub>of the loop segment being between about 0 and about the original length L<sub>0</sub>, the sum of the initial length L<sub>1-O </sub>of the first cord segment, the initial length L<sub>2-O </sub>of the second cord segment, and the loop length L<sub>L-O </sub>being equal to the original length L<sub>O </sub>of the cord;</claim-text>
+<claim-text>first and second crimping loop sleeves coupled to the respective first and second ends of the cord, the first and second crimping loop sleeves securing respective first and second end loops thereat;</claim-text>
+<claim-text>first and second suspension clips respectively secured to the first and second end loops, each of the first and second suspension clips comprising:
+<claim-text>base member having first teeth extending therefrom, the base member having a slotted flange member extending therefrom defining a slot, the base member having a pair of opposing side flange members,</claim-text>
+<claim-text>a gripping member with second teeth configured to complement the first teeth, and</claim-text>
+<claim-text>a lever member including a pivot member superposed on the gripper member, the lever member being pivotally coupled by a pair of pivot pins to the opposing side flange embers of the base member,</claim-text>
+<claim-text>wherein rotation of the lever member around the pivot pins providing a cam action which tightly locks the gripping member to the base member, thereby locking the first and second suspension clips;</claim-text>
+</claim-text>
+<claim-text>the first and second end loops slidably connected to the respective slots of the first and second suspension clips; and</claim-text>
+<claim-text>the first and second cord segments configured to deform elastically upon elongation responsive to the first and second suspension clips being coupled to a material.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The multi-purpose adjustable retaining device as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the elasticity expressed as stretch is about 80%.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The multi-purpose adjustable retaining device as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the cord further comprises a composition of about 30% nylon yarn and about 70% natural rubber.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The multi-purpose adjustable retaining device as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising the thumb-finger precision grip platform cooperating with the loop segment to provide one-hand selective actuation of the multi-purpose adjustable retaining device and, simultaneously, other-hand adjustment of the length of the first and second cord segments.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The multi-purpose adjustable retaining device as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein each of the first and second teeth further comprise plastic inserts configured to provide a plastic-to-plastic grip.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The multi-purpose adjustable retaining device as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the material comprises a bed covering selected from the group consisting of flat sheets, and fitted sheets.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The multi-purpose adjustable retaining device as recited in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the material is selected from the group consisting of bed coverings, flat sheets, fitted sheets, mattress pads, futons, RV beds, travel trailer beds, camper beds, air mattresses, grill covers, tablecloths, furniture covers, pet bedding covers, outdoor equipment covers, car seat covers, boat seat covers, and message tables.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. A multi-purpose adjustable retaining device comprising:
+<claim-text>a cord having a first end and a second end, the cord being composed of an elastomeric material configured to deform elastically upon elongation, the elastomeric material having an original length L<sub>O </sub>and a length after elongation LE, wherein LE is greater than L<sub>O</sub>;</claim-text>
+<claim-text>the cord having an elasticity as expressed by stretch of about 80%;</claim-text>
+<claim-text>the cord having a composition of about 30% nylon yarn and about 70% natural rubber;</claim-text>
+<claim-text>a cord stop comprising:
+<claim-text>a barrel having a floor member with a sidewall extending therefrom, the floor member having an interior and an exterior, the exterior of the floor member sized to provide a finger platform component of a thumb-finger precision grip platform, the sidewall defining an opening in the barrel,</claim-text>
+<claim-text>a flange circumscribing the sidewall and extending inward therefrom into the opening,</claim-text>
+<claim-text>first and second pairs of aligned openings traversing the sidewall,</claim-text>
+<claim-text>a plunger spring-mounted to the interior of the base, the plunger being biased against the base, the plunger having first and second channels passing therethrough,</claim-text>
+<claim-text>a spring mounted to the interior of the base and plunger, the spring pressing the plunger toward the opening and the flange, which restricts the movement thereof,</claim-text>
+<claim-text>the plunger being sized to provide a thumb platform component of a thumb-finger precision grip platform,</claim-text>
+<claim-text>the first and second channels being aligned with the first and second pairs of aligned openings of the cord stop when the spring-mounted plunger is compressed, and</claim-text>
+<claim-text>the first and second channels being vertically offset from the first and second pairs of aligned openings of the cord stop when the spring-mounted plunger is relaxed;</claim-text>
+</claim-text>
+<claim-text>the first and second ends of the cord being threaded through the first and second pairs of aligned openings of the cord stop;</claim-text>
+<claim-text>the cord stop in combination with the first end of the cord defining a first cord segment having an initial length L<sub>1-O</sub>, the cord stop in combination with the second end of the cord defining a second cord segment having an initial length L<sub>2-O</sub>, the cord stop in combination with the cord defining a loop segment having an initial length L<sub>L-O</sub>;</claim-text>
+<claim-text>the initial length L<sub>1-O </sub>of the first cord segment being between about 0 and about the original length L<sub>0</sub>, the initial length L<sub>2-O </sub>of the second cord segment being between about 0 and about the original length L<sub>0</sub>, the loop length LSI of the loop segment being between about 0 and about the original length L<sub>O</sub>, the sum of the initial length L<sub>1-0 </sub>of the first cord segment, the initial length L<sub>2-O </sub>of the second cord segment, and the loop length L<sub>L-O </sub>being equal to the original length L<sub>O </sub>of the cord;</claim-text>
+<claim-text>first and second crimping loop sleeves coupled to the respective first and second ends of the cord, the first and second crimping loop sleeves securing respective first and second end loops thereat;</claim-text>
+<claim-text>first and second suspension clips respectively secured to the first and second end loops, each of the first and second suspension clips comprising:
+<claim-text>base member having first teeth extending therefrom, the base member having a slotted flange member extending therefrom defining a slot, the base member having a pair of opposing side flange members,</claim-text>
+<claim-text>a gripping member with second teeth configured to complement the first teeth, and</claim-text>
+<claim-text>a lever member including a pivot member superposed on the gripper member, the lever member being pivotally coupled by a pair of pivot pins to the opposing side flange embers of the base member,</claim-text>
+<claim-text>wherein rotation of the lever member around the pivot pins providing a cam action which tightly locks the gripping member to the base member, thereby locking the first and second suspension clips;</claim-text>
+</claim-text>
+<claim-text>the first and second end loops slidably connected to the respective slots of the first and second suspension clips;</claim-text>
+<claim-text>the first and second cord segments configured to deform elastically upon elongation responsive to the first and second suspension clips being coupled to a material; and</claim-text>
+<claim-text>the thumb-finger precision grip platform cooperating with the loop segment to provide one-hand selective actuation of the multi-purpose adjustable retaining device and, simultaneously, other-hand adjustment of the length of the first and second cord segments.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The multi-purpose adjustable retaining device as recited in <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein the material comprises a bed covering selected from the group consisting of flat sheets, and fitted sheets.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. A multi-purpose adjustable retaining device from making a fitted sheet equivalent comprising:
+<claim-text>a bed sheet having a non-elastic edge;</claim-text>
+<claim-text>a cord having a first end and a second end, the cord being composed of an elastomeric material configured to deform elastically upon elongation, the elastomeric material having an original length L<sub>O </sub>and a length after elongation L<sub>E</sub>, wherein LE is greater than L<sub>O</sub>;</claim-text>
+<claim-text>the cord having an elasticity as expressed by stretch of about 80%;</claim-text>
+<claim-text>the cord having a composition of about 30% nylon yarn and about 70% natural rubber;</claim-text>
+<claim-text>a cord stop comprising:
+<claim-text>a barrel having a floor member with a sidewall extending therefrom, the floor member having an interior and an exterior, the exterior of the floor member sized to provide a finger platform component of a thumb-finger precision grip platform, the sidewall defining an opening in the barrel,</claim-text>
+<claim-text>a flange circumscribing the sidewall and extending inward therefrom into the opening,</claim-text>
+<claim-text>first and second pairs of aligned openings traversing the sidewall,</claim-text>
+<claim-text>a plunger spring-mounted to the interior of the base, the plunger being biased against the base, the plunger having first and second channels passing therethrough,</claim-text>
+<claim-text>a spring mounted to the interior of the base and plunger, the spring pressing the plunger toward the opening and the flange, which restricts the movement thereof,</claim-text>
+<claim-text>the plunger being sized to provide a thumb platform component of a thumb-finger precision grip platform,</claim-text>
+<claim-text>the first and second channels being aligned with the first and second pairs of aligned openings of the cord stop when the spring-mounted plunger is compressed, and</claim-text>
+<claim-text>the first and second channels being vertically offset from the first and second pairs of aligned openings of the cord stop when the spring-mounted plunger is relaxed;</claim-text>
+</claim-text>
+<claim-text>the first and second ends of the cord being threaded through the first and second pairs of aligned openings of the cord stop;</claim-text>
+<claim-text>the cord stop in combination with the first end of the cord defining a first cord segment having an initial length L<sub>1-O</sub>, the cord stop in combination with the second end of the cord defining a second cord segment having an initial length L<sub>2-O</sub>, the cord stop in combination with the cord defining a loop segment having an initial length L<sub>L-O</sub>;</claim-text>
+<claim-text>the initial length L<sub>1-O </sub>of the first cord segment being between about 0 and about the original length L<sub>O</sub>, the initial length L<sub>2-O </sub>of the second cord segment being between about 0 and about the original length L<sub>0</sub>, the loop length L<sub>L-O </sub>of the loop segment being between about 0 and about the original length L<sub>0</sub>, the sum of the initial length L<sub>1-O </sub>of the first cord segment, the initial length L<sub>2-O </sub>of the second cord segment, and the loop length L<sub>L-O </sub>being equal to the original length L<sub>O </sub>of the cord;</claim-text>
+<claim-text>first and second crimping loop sleeves coupled to the respective first and second ends of the cord, the first and second crimping loop sleeves securing respective first and second end loops thereat;</claim-text>
+<claim-text>first and second suspension clips respectively secured to the first and second end loops, each of the first and second suspension clips comprising:
+<claim-text>base member having first teeth extending therefrom, the base member having a slotted flange member extending therefrom defining a slot, the base member having a pair of opposing side flange members,</claim-text>
+<claim-text>a gripping member with second teeth configured to complement the first teeth, and</claim-text>
+<claim-text>a lever member including a pivot member superposed on the gripper member, the lever member being pivotally coupled by a pair of pivot pins to the opposing side flange embers of the base member,</claim-text>
+<claim-text>wherein rotation of the lever member around the pivot pins providing a cam action which tightly locks the gripping member to the base member, thereby locking the first and second suspension clips to the bed sheet;</claim-text>
+</claim-text>
+<claim-text>the first and second end loops slidably connected to the respective slots of the first and second suspension clips;</claim-text>
+<claim-text>each of the first and second suspension clips being secured to the bed sheet;</claim-text>
+<claim-text>the first and second cord segments configured to deform elastically upon elongation responsive to the first and second suspension clips being coupled to the bed sheet; and</claim-text>
+<claim-text>the thumb-finger precision grip platform cooperating with the loop segment to provide one-hand selective actuation of the multi-purpose adjustable retaining device and, simultaneously, other-hand adjustment of the length of the first and second cord segments. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-application>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v44-2014-04-03.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.4 2014-04-03" file="US20150096124A1-20150409.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20150325" date-publ="20150409">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20150096124</doc-number>
+<kind>A1</kind>
+<date>20150409</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>14504991</doc-number>
+<date>20141002</date>
+</document-id>
+</application-reference>
+<us-application-series-code>14</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>47</class>
+<subclass>G</subclass>
+<main-group>9</main-group>
+<subgroup>10</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20150409</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>47</class>
+<subclass>G</subclass>
+<main-group>9</main-group>
+<subgroup>1081</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20150409</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>47</class>
+<subclass>G</subclass>
+<main-group>2009</main-group>
+<subgroup>1018</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>A</classification-value>
+<action-date><date>20150409</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<classification-national>
+<country>US</country>
+<main-classification>  5640</main-classification>
+</classification-national>
+<invention-title id="d0e43">THERAPEUTIC CUSTOM ROLL PILLOW</invention-title>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>61886308</doc-number>
+<date>20131003</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>Yu</last-name>
+<first-name>Chang Jun</first-name>
+<address>
+<city>Mount Prospect</city>
+<state>IL</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Yu</last-name>
+<first-name>Chang Jun</first-name>
+<address>
+<city>Mount Prospect</city>
+<state>IL</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A support device includes a substantially cylindrical body having a first elongated body portion and a second elongated body portion. Each body portion has a generally semi-cylindrical shape, interfacing along a longitudinal plane. An inner cavity is disposed on an inner surface of each of the first and second body portions, and is dimensioned for receiving at least one removable and adjustable insert, such that each insert is adjustable and positionable for conforming to a profile of a body of a user. The adjustable insert is movable within the cavity for altering the support of the cylindrical body for the user.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="166.62mm" wi="189.40mm" file="US20150096124A1-20150409-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="223.69mm" wi="207.60mm" file="US20150096124A1-20150409-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="210.23mm" wi="180.68mm" file="US20150096124A1-20150409-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="214.04mm" wi="174.92mm" file="US20150096124A1-20150409-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="186.52mm" wi="152.48mm" file="US20150096124A1-20150409-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="182.63mm" wi="168.57mm" file="US20150096124A1-20150409-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="202.52mm" wi="178.14mm" file="US20150096124A1-20150409-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="180.09mm" wi="192.28mm" file="US20150096124A1-20150409-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="189.65mm" wi="169.16mm" file="US20150096124A1-20150409-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="202.52mm" wi="182.03mm" file="US20150096124A1-20150409-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="197.36mm" wi="132.67mm" file="US20150096124A1-20150409-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="205.06mm" wi="164.08mm" file="US20150096124A1-20150409-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="155.11mm" wi="115.99mm" file="US20150096124A1-20150409-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="162.14mm" wi="110.83mm" file="US20150096124A1-20150409-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="155.11mm" wi="181.36mm" file="US20150096124A1-20150409-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="160.19mm" wi="184.57mm" file="US20150096124A1-20150409-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="174.92mm" wi="175.60mm" file="US20150096124A1-20150409-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="164.08mm" wi="172.38mm" file="US20150096124A1-20150409-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="142.24mm" wi="129.46mm" file="US20150096124A1-20150409-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="145.46mm" wi="143.51mm" file="US20150096124A1-20150409-D00019.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE</heading>
+<p id="p-0002" num="0001">This application claims priority of U.S. Provisional Application Ser. No. 61/886,308, filed Oct. 3, 2013 under 35 U.S.C. &#xa7;119(e), which is incorporated herein by reference.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<p id="p-0003" num="0002">The present device generally relates to support devices, and particularly support devices. More specifically, the device relates to a customizable therapeutic support device used for sleeping or exercises, also known in the industry as a &#x201c;roll pillow.&#x201d;</p>
+<p id="p-0004" num="0003">Physical therapy is a well-established branch of medicine and has developed as a useful means for helping people with specific physical issues function at a higher level. A physical therapist works with a patient using specifically prescribed exercises to, among other things, improve range of motion, reduce pain and swelling, and strengthen muscles.</p>
+<p id="p-0005" num="0004">Often, during such exercises or sleeping, it is important to properly support certain areas of the patient's appendages. To achieve the proper support, the therapist utilizes numerous pillows, pads, and the like. However, when it comes to supporting a patient's body, such as the head and neck, one-sized support certainly does not work for all patients having differently sized body parts. In fact, when it comes to supporting the most vital appendage of the human body, such as the head and neck areas, many factors, such as contour, density and hardness, vary significantly per each patient. This is well-known that the proper support is important during exercise or sleeping.</p>
+<p id="p-0006" num="0005">A support device is needed that better facilitates exercise or sleeping by individuals with flexibility and/or medical issues of the type described above. Ideally, an improved support device is inherently stable and decreases the pressure felt by the individual by providing a larger contact area or interface between the device and the individual during exercise or sleeping. It is desirable to have a system, which could be adjusted to fit each individual's unique body and support needs. Such a device and the method for using the device provide therapeutic benefits to patients. Chiropractors, physiatrists, orthopedists and physical therapists would especially find the device and methods to be very useful in patient care. Thus, there is a need for developing an improved therapeutic support device having an enhanced configuration that provides reduced strain and personalized fitting regardless of the individual's unique body and support needs.</p>
+<heading id="h-0003" level="1">SUMMARY</heading>
+<p id="p-0007" num="0006">The present disclosure is directed to a support device or a therapeutic custom roll pillow constructed and arranged for providing customizable support on the head and neck areas of a user. The present pillow provides orthopedic support, which is customizable for fitting the user's body, needs, and/or preferences without using differently sized pillows. Specifically, the present pillow provides support for the natural contour of the cervical lordosis, but is customizable to fit different body areas and variations in the sizes and preferences of the user.</p>
+<p id="p-0008" num="0007">Typically, the degeneration of neck curvature occurs more from front to back of the cervical spine than from side to side. The user may sleep or rest on his back and on his side, but the user needs different height supports for back sleeping and side sleeping. For example, the pillow should be lower when sleeping on one's back, and higher when sleeping on the side, because when the user sleeps on the side, the head is positioned higher than when resting on his back. Thus, the user needs a higher head support to maintain the straight spinal alignment depending on an orientation of the user's body, e.g., during sleeping on the side. The present pillow supports the neck curve or the natural contour of the cervical lordosis when lying in the supine position. When the user rests on the side, the present pillow provides a higher support, and appropriately supports the head to maintain the straight alignment of the neck without additional adjustments.</p>
+<p id="p-0009" num="0008">As described in greater detail below, the present pillow includes a substantially cylindrical body having two parts, preferably interfacing along a longitudinal plane, and the cylindrical body is formed of a material suitable for supporting an area of a body, where each part defines a portion of a cavity within the body. At least one adjustable insert portion is positioned within the cavity of the body, and is movable and adjustable within the cavity to alter the support of the cylindrical body. Accordingly, the present pillow provides a custom fit for the user that enables at least two different height supports with just one pillow. Using the present pillow, the user obtains support for the head and neck areas in various sleeping positions by moving the head to different areas on the pillow during sleeping or exercise.</p>
+<p id="p-0010" num="0009">In one embodiment, a support device includes a substantially cylindrical body having a first elongated body portion and a second elongated body portion. Each body portion has a generally semi-cylindrical shape, interfacing along a longitudinal plane. An inner cavity is disposed on an inner surface of each of the first and second body portions, and is dimensioned for receiving at least one removable and adjustable insert, such that each insert is adjustable and positionable for conforming to a profile of a body of a user. The at least one adjustable insert is movable within the cavity for altering the support of the cylindrical body for the user.</p>
+<p id="p-0011" num="0010">In another embodiment, a support device includes a substantially cylindrical body having a first elongated body portion and a second elongated body portion. Each body portion has a generally semi-cylindrical shape, interfacing along a longitudinal plane. An inner cavity is disposed on an inner surface of the corresponding body portion, and is dimensioned for receiving at least one removable and adjustable insert, such that each insert is adjustable and positionable for conforming to a profile of a body of a user. The at least one adjustable insert is movable within the cavity for altering the support of the cylindrical body for the user, and the at least one insert has a central opening dimensioned for accommodating insertion of an auxiliary insert.</p>
+<p id="p-0012" num="0011">The foregoing and other aspects and features of the disclosure will become apparent to those of reasonable skill in the art from the following detailed description, as considered in conjunction with the accompanying drawings.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIGS. 1A-1D</figref> illustrate various views of a first embodiment of the present support device as being used and positioned by a user;</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 2</figref> is a top perspective view of the support device of <figref idref="DRAWINGS">FIGS. 1A-1D</figref> in an open position, illustrating the positioning of two insert portions within an inner cavity of the support device;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 3</figref> is a top perspective view of the support device of <figref idref="DRAWINGS">FIG. 2</figref> in the open position, illustrating the removal of the two insert portions;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 4</figref> is a schematic top perspective view of the support device of <figref idref="DRAWINGS">FIG. 2</figref> in a closed position;</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 5</figref> is a schematic side perspective view of the support device of <figref idref="DRAWINGS">FIG. 2</figref> in the open position, illustrating possible placement of the two insert portions;</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 6</figref> is a front perspective view of the support device of <figref idref="DRAWINGS">FIG. 2</figref>, illustrating possible placement of the two insert portions;</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 7</figref> is a top perspective view of the support device of <figref idref="DRAWINGS">FIG. 2</figref>;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 8</figref> is a bottom perspective view of the support device of <figref idref="DRAWINGS">FIG. 2</figref>;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 8A</figref> is a side perspective view of another embodiment of the support device of <figref idref="DRAWINGS">FIG. 2</figref>;</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 8B</figref> is a side view of the support device of <figref idref="DRAWINGS">FIG. 8A</figref>;</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 9A</figref> is an exploded schematic top perspective view of a second embodiment of the present support device, featuring a plurality of locking mechanisms and two insert portions;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 9B</figref> is a cross-section of the support device in the closed position taken along the line <b>9</b>B-<b>9</b>B of <figref idref="DRAWINGS">FIG. 9A</figref> and in the direction generally indicated;</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 10A</figref> is a top perspective view of the locking mechanism of <figref idref="DRAWINGS">FIG. 9</figref> having a central opening;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 10B</figref> is a bottom perspective view of the locking mechanism in a locked position;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 10C</figref> is a cross-section of the locking mechanism in the locked position taken along the line <b>10</b>C-<b>10</b>C of <figref idref="DRAWINGS">FIG. 10B</figref> and in the direction generally indicated;</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 10D</figref> is a bottom perspective view of the locking mechanism in an unlocked position;</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 10E</figref> is a cross-section of the locking mechanism in the unlocked position taken along the line <b>10</b>E-<b>10</b>E of <figref idref="DRAWINGS">FIG. 10D</figref> and in the direction generally indicated;</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIGS. 10E-10I</figref> illustrate other variations of the locking mechanism of <figref idref="DRAWINGS">FIG. 10A</figref>;</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIGS. 11A-11B</figref> illustrate another embodiment of the locking mechanism of <figref idref="DRAWINGS">FIG. 9</figref> having two openings;</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 12</figref> is an exploded view of the insert portion having optional exemplary accessories;</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIGS. 13A-13B</figref> illustrate possible placement of the two insert portions of <figref idref="DRAWINGS">FIG. 12</figref> when the support device is in the open position;</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 14</figref> is a top perspective view of the support device of <figref idref="DRAWINGS">FIG. 9</figref> in the closed position;</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. 15</figref> is a side perspective view of an exemplary outer layer of the support device; and</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 16</figref> is a top perspective view of an exemplary carrying case having a zipper closure constructed and arranged for accommodating the support device.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0037" num="0036">Referring now to <figref idref="DRAWINGS">FIGS. 1A-1D</figref>, an improved support device or a therapeutic custom roll pillow is generally designated <b>10</b>, and the present support device is used and positioned by a user as illustrated for supporting the neck and head areas of a user in the supine or side lying position. During exercise or sleeping, it is important to properly support a cervical lordotic curve and/or a thoracic spine connected to the neck and head areas of the user for comfort and reinforcement. As shown in <figref idref="DRAWINGS">FIGS. 1A and 1B</figref>, an outer surface <b>12</b> of the support device <b>10</b> provides back support on the convexity of the thoracic spine, neck, and head areas of the user. Similarly, as shown in <figref idref="DRAWINGS">FIGS. 1C and 1D</figref>, the outer surface <b>12</b> provides side support on the spine, neck, and head areas of the user. Although the present support device <b>10</b> is shown as supporting the spine, neck, and head areas of the user, it is also contemplated that the device can be used in other areas of the user's body to suit different applications.</p>
+<p id="p-0038" num="0037">Referring now to <figref idref="DRAWINGS">FIGS. 2-3</figref>, the present support device <b>10</b> is shown in an open position. In the preferred embodiment, the present support device <b>10</b> has a first elongated body portion <b>14</b> and a second elongated body portion <b>16</b>. Each body portion <b>14</b>, <b>16</b> has a generally semi-cylindrical shape, and includes an inner cavity <b>18</b> being disposed on an inner surface <b>20</b> of the corresponding body portion <b>14</b>, <b>16</b>, and being dimensioned for receiving at least one removable and adjustable insert <b>22</b>. It is preferred that the inner cavity <b>18</b> has a linear or straight orientation along a central longitudinal axis of the corresponding body portion <b>14</b>, <b>16</b>, such that the cavities <b>18</b> of the body portions <b>14</b>, <b>16</b> are disposed substantially in parallel with each other when the support device <b>10</b> is in a closed position (<figref idref="DRAWINGS">FIG. 4</figref>). Each insert <b>22</b> is adjustable and positionable for conforming to a profile or contour of a cervical spine of the user, or for satisfying the needs or preferences of the user. Although the semi-cylindrical shape is shown for the body portions <b>14</b>, <b>16</b>, and a cubical shape for the inserts <b>22</b>, other suitable geometric shapes, such as circular, triangular, rectangular, or hexagonal shapes, are also contemplated to suit the application.</p>
+<p id="p-0039" num="0038">It is contemplated that the present support device <b>10</b> is made of polyurethane foam, or other similar materials that can be constructed to allow a hole, depression or orifice to be in the body portions <b>14</b>, <b>16</b>. The foam or other similar material also functions to provide more support and comfort for the user. In other embodiments, the body portions <b>14</b>, <b>16</b> may be made by using vinyl or other fabric that is filled with buckwheat or other similar materials. Similarly, it is also contemplated that the inserts <b>22</b> may be made by using vinyl or other fabric filled with buckwheat or other suitable materials. Preferred embodiments made using a fabric filled with particulate materials may contain the cavity, depression, hole or orifice in the body portions <b>14</b>, <b>16</b> to suit the application. Further, the body portions <b>14</b>, <b>16</b> may be affixed horizontally on one side with fabric adhesive, fabric, or other similar materials that can be used to hold the two head portions together to create a roll pillow.</p>
+<p id="p-0040" num="0039">Returning to <figref idref="DRAWINGS">FIGS. 1A-1D</figref> and <b>2</b>, as an example only, the inserts <b>22</b> control the height of the supporting area when the user sleeps. When the user rests on his supine position (<figref idref="DRAWINGS">FIG. 1A</figref>), the user rests his neck directly in the center of the support device <b>10</b>, avoiding the inserts <b>22</b> (<figref idref="DRAWINGS">FIG. 1B</figref>). The neck rests between the inserts <b>22</b>, making the device feel lower, and cradle the neck to give proper support in the neck and head areas. When the user sleeps on his side (<figref idref="DRAWINGS">FIG. 1D</figref>), the head width measured from the back of the head to the nose, is typically longer than the neck width. Using the present device <b>10</b>, the user obtains support for the head and neck areas in various sleeping positions by moving the head to different areas on the device <b>10</b> during sleeping or exercise. Therefore, the user's head rests above the inserts <b>22</b> and support the head, making the pillow feel higher (<figref idref="DRAWINGS">FIG. 1C</figref>). As a result, the present device <b>10</b> supports the user's head in a proper height, and helps maintain a straight alignment of the neck.</p>
+<p id="p-0041" num="0040">Referring now to <figref idref="DRAWINGS">FIGS. 4-5</figref>, the present support device <b>10</b> in a closed position is shown in <figref idref="DRAWINGS">FIG. 4</figref>, and the device in an open position is shown in <figref idref="DRAWINGS">FIG. 5</figref>. In the preferred embodiment, the first and second body portions <b>14</b>, <b>16</b> are assembled together to create a cylindrical shape. For example, the first and second body portions <b>14</b>, <b>16</b> are attached together at a common connection seam <b>24</b>. Specifically, one longer side of the inner surface <b>20</b> of the first body portion <b>14</b> is attached substantially parallel to one longer side of the inner surface of the second body portion <b>16</b>. Two longer sides at the connection seam <b>24</b> are hingedly connected together, such that the first and second body portions <b>14</b>, <b>16</b> are rotatable with respect to each other. However, it is contemplated that the first and second body portions <b>14</b>, <b>16</b> are removably attached together using any suitable fastening mechanisms known in the art, such as snaps or Velcro&#xae; brand hook and loop products. As a result, the body portions <b>14</b>, <b>16</b> are interfaced along a longitudinal plane defined by the inner surfaces <b>20</b> of the corresponding body portions.</p>
+<p id="p-0042" num="0041">Referring now to <figref idref="DRAWINGS">FIGS. 5-8</figref>, the present support device <b>10</b> in the open position is shown, featuring the inserts <b>22</b> being positioned in the cavity <b>18</b>. As illustrated, the cavity <b>18</b> is constructed and arranged to make the body portions <b>14</b>, <b>16</b> more pliable or less stiff as the user locates the neck or head on the support device <b>10</b>. For example, one or more inserts <b>22</b> are positioned in the cavity <b>18</b> of the second body portion <b>16</b> as per the user's preferences. As the user puts his head on the first body portion <b>14</b> (<figref idref="DRAWINGS">FIGS. 1A-1D</figref>), a general shape of the space defined by the cavity <b>18</b> changes when the device is compressed, and the cavity is filled by the first and second body portions <b>14</b>, <b>16</b>.</p>
+<p id="p-0043" num="0042">Depending on the needs or preferences, the user may selectively add additional inserts <b>22</b> in any targeted regions of the cavity <b>18</b>. It is contemplated that the inserts <b>22</b> are preferably tubular, but other suitable shapes, such as cylindrical or other geometric shapes are contemplated to suit the application. It is preferred that the inserts <b>22</b> are made of polyurethane foam, but other suitable materials known in the art are also contemplated to fill the cavity <b>18</b>. For example, two inserts <b>22</b> are placed in the cavity <b>18</b> according to a width of the user's neck.</p>
+<p id="p-0044" num="0043">Referring now to <figref idref="DRAWINGS">FIGS. 8A and 8B</figref>, another embodiment of the present support device <b>10</b> is shown, having the common connection seam <b>24</b> permanently attached to the body portions <b>14</b>, <b>16</b> on one side. As shown in <figref idref="DRAWINGS">FIGS. 4-8</figref>, two longer sides at the connection seam <b>24</b> are hingedly connected together, such that the first and second body portions <b>14</b>, <b>16</b> are rotatable with respect to each other. A notable feature is that the body portions <b>14</b>, <b>16</b> are spaced at a predetermined distance, and flexibly elastically open and close as indicated by an arrow (<figref idref="DRAWINGS">FIG. 8B</figref>), such that the inserts <b>22</b> are inserted into the cavities <b>18</b> without fully opening the body portions <b>14</b>, <b>16</b> (<figref idref="DRAWINGS">FIG. 8</figref>).</p>
+<p id="p-0045" num="0044">Referring now to <figref idref="DRAWINGS">FIGS. 9A and 9B</figref>, another embodiment of the device <b>10</b> is generally designated <b>30</b>. Components shared with the device <b>10</b> are designated with identical reference numbers. A major difference featured in the device <b>30</b> is that the device includes at least one locking mechanism <b>32</b>, transitioning between a locked position and an unlocked position, for securely holding the first and second body portions <b>14</b>, <b>16</b> together. At least one insertion opening or bore <b>34</b> being generally perpendicular to a longitudinal axis of the device <b>30</b> is located on the outer surface <b>12</b> of each body portion <b>14</b>, <b>16</b>, and is dimensioned for accommodating insertion of the locking mechanism <b>32</b> into the corresponding body portion.</p>
+<p id="p-0046" num="0045">Each insertion opening <b>34</b> has a first or outer chamber <b>36</b> and a second or inner chamber <b>38</b>, wherein a diameter of the first chamber <b>36</b> is larger than the diameter of the second chamber <b>38</b>. Further, the diameter of the second chamber <b>38</b> is smaller than the diameter of the locking mechanism <b>32</b>, such that the locking mechanism is stopped at a bottom wall <b>40</b> of the first chamber <b>36</b> when the device <b>30</b> is in a locked position (<figref idref="DRAWINGS">FIG. 9B</figref>). An elastic string or rope <b>42</b> is provided to hold the locking mechanisms <b>32</b> together with the body portions <b>14</b>, <b>16</b> sandwiched between. For example, as described in greater detail below, the string <b>42</b> is inserted into the locking mechanism <b>32</b> and the insertion opening <b>34</b> of the first body potion <b>14</b>, and then is inserted into the insertion opening <b>34</b> and the locking mechanism <b>32</b> of the second body portion <b>16</b>. When two opposite ends of the string <b>42</b> are locked by the locking mechanisms <b>32</b>, the first and second body portions <b>14</b>, <b>16</b> are securely held together under the tensile elongation force of the elastic string between the first and second body portions. It is also contemplated that the locking mechanism <b>32</b> can be used in other similar or suitable articles for securing the string or rope <b>42</b>, such as for tightly tying a shoelace or a garment string in clothing.</p>
+<p id="p-0047" num="0046">Referring now to <figref idref="DRAWINGS">FIGS. 10A-10E</figref>, an exemplary operational sequence of the locking mechanism <b>32</b> is illustrated. As shown in <figref idref="DRAWINGS">FIG. 10A</figref>, it is contemplated that the locking mechanism <b>32</b> has at least one opening <b>44</b>, preferably located in a center, and dimensioned for receiving the string <b>42</b> (shown in phantom). A plurality of flexing protrusion sections <b>46</b> (<figref idref="DRAWINGS">FIGS. 10B and 10D</figref>), preferably at least two, are provided on an inner surface <b>48</b> of the locking mechanism <b>32</b> for locking and unlocking the string <b>42</b>. Further, the protrusion sections <b>46</b> are separated and surrounded by one or more channels or grooves <b>49</b>. Each protrusion section <b>46</b> has a first or inner end <b>50</b> adjacent the opening <b>44</b>, and an opposite second or outer end <b>52</b> adjacent a peripheral edge <b>54</b> of the locking mechanism <b>32</b>.</p>
+<p id="p-0048" num="0047">An important feature of each protrusion section <b>46</b> is that the first end <b>50</b> has a thickness being greater than that of the second end <b>52</b>. Also, the first end <b>50</b> extends from the inner surface <b>48</b> near the opening <b>44</b> toward a central axis of the opening, such that the first ends of the protrusion sections <b>46</b> jointly compress toward the central axis of the opening and securely hold the string <b>42</b> when the locking mechanism <b>32</b> is in a locked position (<figref idref="DRAWINGS">FIG. 10C</figref>).</p>
+<p id="p-0049" num="0048">In the preferred embodiment, the locking mechanism <b>32</b> is generally dome-shaped and flexible to be compressed manually. As shown in <figref idref="DRAWINGS">FIGS. 10B-10E</figref>, the locking mechanism <b>32</b> transitions between the locked position (<figref idref="DRAWINGS">FIG. 10C</figref>) and an unlocked position (<figref idref="DRAWINGS">FIG. 10E</figref>) by compressing and decompressing a top portion <b>56</b> of the locking mechanism inwardly and outwardly, causing flexing from a convex to a concave orientation of the top portion <b>56</b>. More specifically, when the top portion <b>56</b> of the locking mechanism <b>32</b> is compressed inwardly toward the inner surface <b>48</b> of the locking mechanism, the dome-shaped mechanism becomes generally flat and the first ends <b>50</b> flare outwardly to unlock or release the string <b>42</b> (<figref idref="DRAWINGS">FIGS. 10D and 10E</figref>). Conversely, for locking the string <b>42</b> at a desired length, the top portion <b>56</b> of the locking mechanism <b>32</b> is decompressed outwardly, and the locking mechanism <b>32</b> resiliently returns to its original dome shape, thereby locking or securely holding the string under the compression force of the first ends <b>50</b> (<figref idref="DRAWINGS">FIGS. 10B and 10C</figref>).</p>
+<p id="p-0050" num="0049">Referring now to <figref idref="DRAWINGS">FIGS. 10E-10G</figref>, other suitable variations of the locking mechanism <b>32</b> are shown. It is contemplated that the opening <b>44</b> has a larger diameter near the top portion <b>56</b> than the diameter near an opposite bottom portion <b>57</b> (<figref idref="DRAWINGS">FIG. 10F</figref>). Conversely, it is also contemplated that the opening <b>44</b> has a larger diameter near the opposite bottom portion <b>57</b> than the diameter near the top portion <b>56</b> (<figref idref="DRAWINGS">FIG. 10G</figref>). Accordingly, the locking mechanism <b>32</b> operates without the protrusion sections <b>46</b>.</p>
+<p id="p-0051" num="0050">Referring now to <figref idref="DRAWINGS">FIGS. 10H-10I</figref>, when the locking mechanism <b>32</b> is provided with the protrusion sections <b>46</b>, similar suitable variations of the locking mechanism <b>32</b> are contemplated. For example, it is contemplated that the opening <b>44</b> has a larger diameter near the top portion <b>56</b> than the diameter near the opposite first end <b>50</b> of the protrusion section <b>46</b> (<figref idref="DRAWINGS">FIG. 10H</figref>). Conversely, it is also contemplated that the opening <b>44</b> has a larger diameter near the opposite first end <b>50</b> than the diameter near the top portion <b>56</b> (<figref idref="DRAWINGS">FIG. 10I</figref>).</p>
+<p id="p-0052" num="0051">Referring now to <figref idref="DRAWINGS">FIGS. 11A and 11B</figref>, an exemplary variation of the locking mechanism <b>32</b> is illustrated. In this example, the locking mechanism <b>32</b> has two central openings <b>44</b> dimensioned for receiving two separate strings <b>42</b>, and the periphery <b>54</b> of the dome portion of the mechanism <b>32</b> has substantially an oval shape in a longitudinal direction. Other suitable shapes are also contemplated to suit the application. Further, the protrusion sections <b>46</b> have both generally triangular and quadrilateral shapes (<figref idref="DRAWINGS">FIG. 11B</figref>). Likewise, other suitable geometric shapes are contemplated depending on the application.</p>
+<p id="p-0053" num="0052">Referring now to <figref idref="DRAWINGS">FIGS. 9A</figref>, <b>12</b>, <b>13</b>A and <b>13</b>B, an exemplary variation of the insert <b>22</b>&#x2032; is illustrated. In this embodiment, the insert <b>22</b>&#x2032; has a generally cylindrical shape, and includes at least one circular groove <b>58</b> formed on an outer surface of the insert <b>22</b>&#x2032; transverse to a longitudinal axis of the insert, such that each groove matingly rests, in a complementary fashion, on the apex of one of a plurality of ripples or protrusions <b>60</b> disposed on an inner surface of the corresponding cavity <b>18</b>. Although the cubical shape is shown in <figref idref="DRAWINGS">FIG. 5</figref> and the cylindrical shape is shown in <figref idref="DRAWINGS">FIG. 12</figref> for the inserts <b>22</b>, <b>22</b>&#x2032;, other suitable shapes are contemplated to suit the application. Further, any combinations of inserts having different shapes may be utilized with the grooves <b>58</b> depending on the user's needs and preferences.</p>
+<p id="p-0054" num="0053">Also included in the insert <b>22</b>&#x2032; is a central opening <b>62</b> (<figref idref="DRAWINGS">FIG. 12</figref>) dimensioned for accommodating insertion of an auxiliary insert <b>64</b>, wherein the auxiliary insert is provided for varying a density of the insert <b>22</b>&#x2032;. For example, when the auxiliary insert <b>22</b>&#x2032; is slidably inserted into the central opening <b>62</b> of the insert <b>22</b>&#x2032;, depending on the density of the auxiliary insert, the support device <b>30</b> may exhibit different cushiness and flexibility for the user. Various other suitable types of auxiliary insert <b>64</b> are contemplated to suit the application. Optionally, an accessary device <b>66</b>, such as a vibrator, an alarm clock, a compact radio, and the like, is insertable in the auxiliary insert <b>64</b> or the insert <b>22</b>&#x2032; to suit the application. For example, the alarm clock <b>62</b> wakes up the user after a predetermined time period.</p>
+<p id="p-0055" num="0054">Referring now to <figref idref="DRAWINGS">FIGS. 13A and 13B</figref>, it is preferred that a plurality of measurement indicators <b>68</b> are disposed on the inner surface <b>20</b> of at least one of the body portions <b>14</b>, <b>16</b> in a longitudinal direction for more accurately placing the inserts <b>22</b>&#x2032; in the cavity <b>18</b>. The measurement indicators <b>68</b> are preferably comprised of a grid that is imprinted along the side of the inner cavity <b>18</b>, but other suitable methods known in the art are also contemplated. The measurement indicators <b>68</b> are optionally printed on materials such as felt, fabrics, and similar materials that can be adhered or affixed to the body portions <b>14</b>, <b>16</b>.</p>
+<p id="p-0056" num="0055">Thus, the inserts <b>22</b>&#x2032; are positioned and re-positioned more easily using the measurement indicators <b>68</b>. It is contemplated that the inserts <b>22</b>&#x2032; are attached to the defined cavity <b>18</b>, using hook and loop fasteners, such as Velcro&#xae; brand products, but other suitable methods known in the art, such as snap fasteners, are contemplated depending on different applications. It is preferred that the inserts <b>22</b>, <b>22</b>&#x2032; are made of polyurethane foam, or other similar materials that are configurable to matingly fit the cavity <b>18</b> of the corresponding body portion <b>14</b>, <b>16</b>.</p>
+<p id="p-0057" num="0056">Referring now to <figref idref="DRAWINGS">FIGS. 14-16</figref>, other embodiments include a cover <b>70</b> for the support device <b>10</b>, <b>30</b>. It is contemplated that at least one of the body portions <b>14</b>, <b>16</b> is spray coated with vinyl-based coating to serve as the cover (<figref idref="DRAWINGS">FIG. 14</figref>). In another embodiment, the cover <b>70</b> is made of vinyl or other suitable types of fabric that is filled with buckwheat or other similar materials to keep the head and neck areas of the user cooler (<figref idref="DRAWINGS">FIG. 15</figref>). In <figref idref="DRAWINGS">FIG. 15</figref>, the cover <b>70</b> may be a mesh-type elastic net for holding the body portions <b>14</b>, <b>16</b> together during use, and may enhance ventilation around the device <b>10</b>, <b>30</b>. In yet another embodiment, the cover <b>70</b> is fastened around the body portions <b>14</b>, <b>16</b>, using zippers or hook and loop fasteners <b>72</b>, such as Velcro&#xae; brand products (<figref idref="DRAWINGS">FIG. 16</figref>). Other suitable fasteners known in the art, such as magnets or snap fasteners, are also contemplated.</p>
+<p id="p-0058" num="0057">The matter set forth in the foregoing description and accompanying drawings is offered by way of illustration only and not as a limitation. While a particular embodiment of the present support device has been described herein, it will be appreciated by those skilled in the art that changes and modifications may be made thereto without departing from the present disclosure in its broader aspects and as set forth in the following claims.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A support device comprising:
+<claim-text>a substantially cylindrical body having a first elongated body portion and a second elongated body portion, each body portion having a generally semi-cylindrical shape, interfacing along a longitudinal plane; and</claim-text>
+<claim-text>an inner cavity being disposed on an inner surface of each of the first and second body portions, and being dimensioned for receiving at least one removable and adjustable insert, each insert being adjustable and positionable for conforming to a profile of a body of a user,</claim-text>
+<claim-text>wherein the at least one adjustable insert is movable within the cavity for altering the support of the cylindrical body for the user.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The support device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first and second body portions are attached together at a common connection seam, such that the first and second body portions are rotatable with respect to each other.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The support device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first and second body portions are removably attached together using a fastening mechanism, such that the body portions are interfaced along the longitudinal plane defined by the inner surfaces of the corresponding body portions.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The support device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first and second body portions are constructed and arranged for changing a general shape or resilience of the device of the space defined by the cavity when the support device is compressed.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The support device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein at least one locking mechanism, transitioning between a locked position and an unlocked position, is provided for securely holding the first and second body portions together.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The support device of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the locking mechanism has at least one opening dimensioned for receiving a string.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The support device of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the locking mechanism has a plurality of protrusion sections on an inner surface of the locking mechanism for locking and unlocking the string depending on the position.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The support device of <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the protrusion sections are separated and surrounded by one or more channels.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The support device of <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein each protrusion section has a first end adjacent the opening, and an opposite second end adjacent a peripheral edge of the locking mechanism.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The support device of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the first end has a thickness being greater than that of the second end.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The support device of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the first end extends from an inner surface of the locking mechanism near the opening toward a central axis of the opening, such that the first ends of the protrusion sections jointly compress toward the central axis of the opening and securely hold the string.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The support device of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the locking mechanism transitions between the locked position and the unlocked position by compressing and decompressing a top portion of the locking mechanism inwardly and outwardly.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The support device of <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein at least one insertion opening being generally perpendicular to a longitudinal axis of the support device is located on an outer surface of each body portion, and is dimensioned for accommodating insertion of the locking mechanism into the corresponding body portion.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The support device of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein each insertion opening has a first chamber and a second chamber, and a diameter of the first chamber is larger than the diameter of the second chamber.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The support device of <claim-ref idref="CLM-00014">claim 14</claim-ref>, wherein the diameter of the second chamber is smaller than the diameter of the locking mechanism, such that the locking mechanism is stopped at a bottom wall of the first chamber.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The support device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the insert has a generally cylindrical shape, and includes at least one circular groove formed on an outer surface of the insert transverse to a longitudinal axis of the insert.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The support device of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the at least one groove matingly rests, in a complementary fashion, on the apex of one of a plurality of ripples disposed on an inner surface of the corresponding cavity.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The support device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the at least one insert has a central opening dimensioned for accommodating insertion of an auxiliary insert.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The support device of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a plurality of measurement indicators are disposed on the inner surface of at least one of the body portions in a longitudinal direction for more accurately placing the inserts in the cavity.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. A support device comprising:
+<claim-text>a substantially cylindrical body having a first elongated body portion and a second elongated body portion, each body portion having a generally semi-cylindrical shape, interfacing along a longitudinal plane; and</claim-text>
+<claim-text>an inner cavity being disposed on an inner surface of the corresponding body portion, and being dimensioned for receiving at least one removable and adjustable insert, each insert being adjustable and positionable for conforming to a profile of a body of a user,</claim-text>
+<claim-text>wherein the at least one adjustable insert is movable within the cavity for altering the support of the cylindrical body for the user, and the at least one insert has a central opening dimensioned for accommodating insertion of an auxiliary insert. </claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-application>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v44-2014-04-03.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.4 2014-04-03" file="US20150096125A1-20150409.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20150325" date-publ="20150409">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20150096125</doc-number>
+<kind>A1</kind>
+<date>20150409</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>14046547</doc-number>
+<date>20131004</date>
+</document-id>
+</application-reference>
+<us-application-series-code>14</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>47</class>
+<subclass>C</subclass>
+<main-group>31</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20150409</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>D</section>
+<class>04</class>
+<subclass>H</subclass>
+<main-group>1</main-group>
+<subgroup>58</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20150409</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>D</section>
+<class>05</class>
+<subclass>B</subclass>
+<main-group>11</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20150409</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>D</section>
+<class>04</class>
+<subclass>H</subclass>
+<main-group>1</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20150409</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>47</class>
+<subclass>C</subclass>
+<main-group>31</main-group>
+<subgroup>001</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20150409</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>D</section>
+<class>04</class>
+<subclass>H</subclass>
+<main-group>1</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20150409</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>D</section>
+<class>04</class>
+<subclass>H</subclass>
+<main-group>1</main-group>
+<subgroup>58</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20150409</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>D</section>
+<class>05</class>
+<subclass>B</subclass>
+<main-group>11</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20150409</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<classification-national>
+<country>US</country>
+<main-classification>  5698</main-classification>
+<further-classification>428 98</further-classification>
+<further-classification>428219</further-classification>
+<further-classification>428220</further-classification>
+<further-classification>428181</further-classification>
+<further-classification>11247508</further-classification>
+</classification-national>
+<invention-title id="d0e43">FIRE RESISTANT PANEL AND METHODS OF FIRE BLOCKING AN ARTICLE</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>DREAMWELL, LTD.</orgname>
+<address>
+<city>Las Vegas</city>
+<state>NV</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>DeFranks</last-name>
+<first-name>Michael S.</first-name>
+<address>
+<city>Decatur</city>
+<state>GA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+<inventor sequence="01" designation="us-only">
+<addressbook>
+<last-name>McGuire</last-name>
+<first-name>Sheri L.</first-name>
+<address>
+<city>Duluth</city>
+<state>GA</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>DREAMWELL, LTD.</orgname>
+<role>02</role>
+<address>
+<city>Las Vegas</city>
+<state>NV</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">Flame retardant panels and methods of manufacture generally include a batting material including a layer having a top surface and a bottom surface, the layer comprising a plurality of substantially vertically oriented flame retardant treated fibers extending from the top surface to the bottom surface; and a binder material.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="91.78mm" wi="168.40mm" file="US20150096125A1-20150409-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="236.90mm" wi="195.50mm" file="US20150096125A1-20150409-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="244.43mm" wi="181.27mm" file="US20150096125A1-20150409-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="205.74mm" wi="187.11mm" file="US20150096125A1-20150409-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="264.08mm" wi="174.50mm" orientation="landscape" file="US20150096125A1-20150409-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND</heading>
+<p id="p-0002" num="0001">The present disclosure generally relates to fire resistant panels including fire retardant treated fibers, and more particularly, to fire resistant panels including vertically oriented fire retardant treated fibers. Also disclosed are methods of fire blocking an article fire resistant panel.</p>
+<p id="p-0003" num="0002">Today, there is an increasing interest in adding flame resistant characteristics to mattresses and other furniture. For example, mattress and mattress sets sold in the United States are required to meet an open flame requirement as codified in 16 C.F.R. Part 1633 (2007). While materials used to meet these requirements vary from product to product, the overall approach has generally been to encase the mattress with a flame resistant barrier material underlying the outermost mattress layer e.g., fabric layer, ticking layer, and the like. The materials used by most mattress manufacturers are non-woven high loft or needle punched fiber batting; although, knitted sock-style barrier materials are also used albeit to a lesser extent.</p>
+<p id="p-0004" num="0003">Commercially available fire resistant battings are typically carded and cross lapped, whereby multiple thin layers of horizontally oriented fiber webs are laid on top of one another, wherein each successive fiber web is laid generally perpendicular to the preceding layer. One process for bonding the web together is via thermal bonding. With a thermal bonding process the layered web is then passed though an oven where a meltable binder such as a low melting polyester or low melting copolymer polyester serves as a binder to bind and hold the web together. Suitable low melting binders such as polyester can have a melting point generally less than 130&#xb0; C. In some embodiments, the binder is a bi-component material having a core with a higher melting point than a surround encapsulating the core such that during thermal processing the surround is heated to a temperature greater than melting point of the surround but less than the melting point of the core to effect softening and/or melting of the surround, which functions to bind the fibers. Prior art <figref idref="DRAWINGS">FIG. 1</figref> provides a cross sectional view depicting a non-woven batting <b>10</b> including horizontally oriented fibers webs <b>12</b>. Other commercially available fire resistant batting manufacturers employ the use of needles that penetrate the horizontally oriented fiber layered web through the web layers to effect fiber entanglement as a means to mechanically hold the web together. The resulting cross sectional structure can generally be defined as primarily composed of horizontally oriented fiber webs. Regardless of the method of manufacturer, typically, the fire resistant battings are of a relatively low loft and also of low resilience following compression such as may occur during use.</p>
+<p id="p-0005" num="0004">While current flame retardant battings may meet the standards set forth in 16 C.F.R. Part 1633, many of these commercial offerings offer little in the way of user comfort. Moreover, commercially available fire resistant battings are generally insulative and do little with regard to temperature management and moisture control</p>
+<p id="p-0006" num="0005">Accordingly, there is a need for improved fire resistant panels such as those employed as batting materials for use in mattresses, for use in upholstered furniture, and the like.</p>
+<heading id="h-0002" level="1">BRIEF SUMMARY</heading>
+<p id="p-0007" num="0006">Disclosed herein In one embodiment, a fire resistant batting material comprises a layer having a top surface and a bottom surface, the layer comprising a plurality of substantially vertically oriented flame retardant treated fibers extending from the top surface to the bottom surface; and a binder material.</p>
+<p id="p-0008" num="0007">In another embodiment, a method of fire blocking an article, comprises combining a layer of a fabric ticking or upholstery, a layer of batting material, and an optional stitch backing layer, wherein the layer of batting material comprises a top surface, a bottom surface, a plurality of substantially vertically oriented flame retardant treated fibers extending from the top surface to the bottom surface and a binder material; sewing the layers together to form a composite; and incorporating the composite into the article.</p>
+<p id="p-0009" num="0008">The disclosure may be understood more readily by reference to the following detailed description of the various features of the disclosure and the examples included therein.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">BRIEF DESCRIPTION OF THE SEVERAL VIEWS OF THE DRAWINGS</heading>
+<p id="p-0010" num="0009">Referring now to the figures wherein the like elements are numbered alike:</p>
+<p id="p-0011" num="0010">Prior Art <figref idref="DRAWINGS">FIG. 1</figref> illustrates a cross-sectional view of a non-woven batting material with carded and horizontally cross lapped fibers.</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 2A</figref> illustrates a cross-sectional view of a non-woven batting material with vertically oriented flame retardant treated pleated fibers in accordance with the disclosure.</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 2B</figref> illustrates an enlarged cross-sectional view of the non-woven batting material with vertically oriented flame retardant treated fibers of <figref idref="DRAWINGS">FIG. 2A</figref> in accordance with the disclosure.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 3</figref> illustrates a cross-sectional view of a non-woven batting material with vertically oriented flame retardant treated fibers in accordance with the disclosure.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 4A-D</figref> depicts cross sectional images depicting moisture absorption profile for different fibers.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 5</figref> graphically illustrates moisture absorption as a function of time for fire retardant treated fibers and untreated fibers.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0017" num="0016">Disclosed herein are flame resistant panels for use in cushioning articles. By way of example, the flame resistant panels can be employed in mattresses as a batting material, wherein the fibers are substantially vertically oriented and at least a portion are flame retardant treated fibers. By use of the term &#x201c;treated&#x201d; it is meant that a fire retardant is applied to the fiber, wherein the fibers by themselves may have varying degrees of flame retardancy depending on the composition. Applicants have discovered that orienting the fire retardant treated fibers in a substantially vertical direction increases resiliency and the product's ability to recover due primarily to the change in fiber orientation from horizontal to vertical. The increase in resiliency has been found to translate into higher levels of comfort and product durability. Moreover, increased airflow was observed by orienting the fibers in the substantially vertical direction. Three dimensional thermal imaging has confirmed that mattress assemblies configured with flame resistant batting comprising substantially vertically oriented flame retardant treated fibers exhibited less retained heat compared to conventional cross-lapped and horizontally oriented fiber layers such as that shown in Prior Art <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+<p id="p-0018" num="0017">Turning now to <figref idref="DRAWINGS">FIGS. 2A and 2B</figref>, there is depicted a mattress <b>100</b> in accordance with an embodiment. The mattress <b>100</b> includes a central core layer <b>102</b> between pleated middle upholstery layers <b>104</b> (also referred to herein as a fiber batting material), and a quilt layer <b>106</b> provided on the outer face of the pleated middle upholstery layers <b>104</b>. The quilt layer <b>106</b> can extend around the sides of the mattress, where it is shown partially cut away to reveal layers behind quilt layer <b>106</b>. Other layers such as an insulator layer or the like (not shown) may also be included as may be desired for different applications.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 2B</figref> illustrates an enlarged view of the mattress <b>100</b> corresponding with the circle indicated in <figref idref="DRAWINGS">FIG. 2A</figref>. The core layer <b>102</b> may comprise one or more foam layers, a coil spring layer, and combinations thereof. The quilt layer <b>106</b> is a composite layer of the mattress and can be made of foam or a cross-laid non-woven web of fibers stitched to the underside of a protective fabric cover, e.g., ticking layer, which provides a soft surface texture to the mattress.</p>
+<p id="p-0020" num="0019">The pleated middle upholstery layers <b>104</b> comprise a pleated (vertically lapped) web of cross-laid fibers. In the pleated layer, the pleats are formed from a cross-laid non-woven web of fibers as will be described in greater detail below</p>
+<p id="p-0021" num="0020">In an alternative embodiment, the non-woven fiber batting material for the middle upholstery layer <b>104</b>&#x2032; can include a plurality of individual flame retardant treated fibers <b>102</b> substantially oriented in a vertical direction, i.e., generally transverse (y-direction) to a horizontal plane (x-direction) of the batting material.</p>
+<p id="p-0022" num="0021">The term &#x201c;non-woven&#x201d; as used herein in connection with fabrics, fibrous compositions, textiles, materials, products and similar items means a structure that is produced by attaching, bonding and/or interlocking two or more of the same or different components, such as filaments, microfibers, fibers, fibrous compositions, threads or yarns, together, generally by loosely bonding them together, and using one or more of a variety of techniques that generally does not involve weaving or interlacing, but employs mechanical, chemical, thermal and/or solvent means, for example, using known needle punching, melt-blowing, spun bonding, wet-forming and various bonded carded web processes. Non-woven materials may be manufactured using fusing or chemical bonding techniques (with the use of binding agents, such as PVA or polyester) or similar techniques, which are known by those of skill in the art. This term generally does not include fabrics, textiles, fibrous compositions or materials that are woven, knitted, tufted, or those made using wool or other felting processes.</p>
+<p id="p-0023" num="0022">The upholstery layer, i.e., batting material, including the flame retardant treated fiber in the substantially vertically oriented orientation of the present disclosure is also cost effective, soft, yet durable and suitable for various cushioning articles including, but not limited to a mattress component, mattress covers, comforters, bedspreads, quilts, coverlets, duvets, pillows, pillow covers, cushions, in addition to other home uses, protective apparel applications, and industrial end-use applications.</p>
+<p id="p-0024" num="0023">The fibers employed in the vertically oriented flame retardant treated fiber batting material are not intended to be limited so long as a fire retardant can be applied and retained in an amount effective to provide the panel with a fire resistance that meets or exceeds 16 C.F.R. Part 1633. The fibers can be natural fibers and/or synthetic fibers. The use of natural fibers in bedding components is desirable due to the softness and durability associated with these fibers as well as the absorption properties of most natural cellulosic fibers. Suitable fibers include, without limitation, polyester, polyolefins such as a polypropylene and polyethylene, cellulosic fibers, cotton, rayon, wool, silk, acetate, nylon, lyocell, flax, ramie, jute, angora, kenaf, and the like, and mixtures thereof.</p>
+<p id="p-0025" num="0024">The fibers may have varying diameter and denier, be hollow or solid, or may be crimped. Blending different types of fibers may further contribute to resiliency of the batting material. The amounts will vary generally depending on the fiber composition, and flame retardant employed.</p>
+<p id="p-0026" num="0025">In one embodiment, the flame retardant treated fiber is lyocell, which is a regenerated cellulose fiber made from dissolving pulp (bleached wood pulp) and is commercially available as fibers under the brand name Tencel from Lenzing AG. The US Federal Trade commission defines lyocell as &#x201c;a cellulose fiber that is obtained by an organic solvent spinning process&#x201d; and classifies the lyocell fiber as a sub-category of rayon. Some main characteristics of lyocell fibers are that they are soft, absorbent, very strong when wet or dry, and resistant to wrinkles; all of which are generally desirable for a batting material. The moisture absorption properties provide improved moisture wicking, which is highly desirable for mattress applications.</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIGS. 4A-4D</figref> depict cross sections of various cellulosic fibers after immersion in dyed water, wherein lighter regions indicate minimal moisture absorption and darker regions indicate maximum moisture absorption. The various cellulosic fibers included cotton, a rayon commercially available under the trademark VISCOSE from the Lenzing Group, a modified rayon commercially available under the trademark MODAL from the Lenzing Group; and lyocell commercially available under the trademark TENCEL from the Lenzing Group. As shown, lyocell exhibited the greatest and most uniform moisture absorption as evidenced by the uniform dark color throughout the cross section. In contrast, moisture absorption for the MODAL and VISCOSE materials was observed to be confined to pores within the cross-sectional structure whereas moisture absorption in cotton was in centrally located pore. It is further noted that lyocell had a relatively smooth outer surface compared to VISCOSE and MODAL, which is believed to result in improved carding and provide a softer touch relative to materials having complex cross-sectional shapes.</p>
+<p id="p-0028" num="0027">Man-made fibers can be produced to any desired cut length, which is generally determined by the equipment and product performance. For the vertically oriented batting material, the fibers to be fire retardant treated generally have a length of 0.25 to 4 inches; in other examples, a length of 0.5 to 3 inches, and in still other examples, a length of 1.5 to 3 inches. By way of example, for lyocell, rayon and/or polyester fibers, the cut lengths for carding are generally between 1.5 and 3 inches. For natural fibers such as cotton, the fiber length can generally vary from 0.5 to 1.6 inches. The non-woven fiber batting material when vertically oriented can also have a total thickness or loft of 0.5 inches (1.25 centimeters) or greater. While there is no real limitation on how thick the batting can be, for many typical applications, the thickness of the high loft batting need not be higher than 3 inches (7.6 cm), and for many mattress applications less than 2 inches (5 cm) is useful. The batting material can also generally have a basis weight of about 5 to 18 ounces per square yard (169 to 610 grams per square meter) and are preferably 8 to 11 ounces per square yard (271 to 373 grams per square meter). The total density of the batting material is generally aligned with the basis weights described above. Denser battings generally do not have the resiliency desired for use as cushioning in mattresses and other articles. As for battings that are less dense, the batting materials are oftentimes bulky to handle during fabrication and are generally compressed into the preferred density range when incorporated into a quilted composite. Thinner and denser battings also do not provide the desired softness, aesthetics, and may lack durability in application and with FR protection.</p>
+<p id="p-0029" num="0028">The fire retardant treated fibers may be chemically, thermally or mechanically bonded to improve structural integrity. Chemical binders can generally be applied to the flame retardant treated fibers by impregnating, coating and/or spraying. Exemplary chemical binders include, without limitation, acrylate polymers, styrene-butadiene copolymers, and vinyl acetate polymers. Thermally bonded fibers generally include the addition of low melting polymeric materials, e.g., low molecular weight polyester fibers, to the flame retardant treated fibers, wherein further processing to form the web results in melting and/or partial melting of the low molecular weight binder so as to form bonds under controlled heating between the fibers of the batting material. As for mechanical bonding, a web of fibers including the flame retardant treated fibers can be processed to increase fiber entanglement. There are generally two types of mechanical bonding: needle punching and hydro-entanglement. Needle punching can be used on most fiber types and generally includes the use of specially designed needles that are pushed and pulled through the web to entangle the fibers. Webs of different characteristics can be needled together to produce a gradation of properties difficult to achieve by other means. Hydro-entanglement employs water jets to effect entanglement.</p>
+<p id="p-0030" num="0029">The flame resistant panels made using treated fire retardant fibers are comprised of a blend in an amount that meets and/or exceeds the flammability standards set forth in 16 CFR 1633. Flame resistance generally depends on the fiber composition, flame retardant chemical that is applied, and the flame retardant loadings. In most embodiments, at least 50% of the fibers are fire retardant treated fibers. In other embodiments, at least 60% of the fibers are fire retardant treated fibers; and in still other embodiments, at least 80% of the fibers are fire retardant treated fibers. The remaining fibers in the panel composition can comprise untreated fibers, binder fibers, and the like.</p>
+<p id="p-0031" num="0030">In some embodiments, multiple layers of vertically oriented fibers are stackedly arranged to provide a desired thickness for the batting material application. The stacked layers may be subjected to chemical, thermal and/or mechanical bonding to provide the desired amount of structural integrity between layers. For example, a binder such as a low molecular weight polyester and/or adhesive may be used intermediate the layers to provide structural integrity or the stacked arrangement may be needle punched to effect fiber entanglement.</p>
+<p id="p-0032" num="0031">Unexpectedly, it has also been discovered that when converted into a vertically oriented product using the treated fibers such lyocell or rayon, less flame retardant treated fibers are required to form the panel and provide an equivalent fire rating compared to prior art carded and cross-lapped horizontally oriented materials having a similar loft. For example, a fiber batting material at a density of 1 ounce per square foot that met and/or exceeded the product safety standard codified in 16 C.F.R PART 1633 required only 70% of substantially vertically oriented fire retardant fibers compared to 80% required for fire retardant treated fibers that had been horizontally oriented and cross-lapped as shown in Table 1.</p>
+<p id="p-0033" num="0000">
+<tables id="TABLE-US-00001" num="00001">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="5">
+<colspec colname="1" colwidth="49pt" align="left"/>
+<colspec colname="2" colwidth="28pt" align="center"/>
+<colspec colname="3" colwidth="56pt" align="center"/>
+<colspec colname="4" colwidth="28pt" align="center"/>
+<colspec colname="5" colwidth="56pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="5" rowsep="1">TABLE 1</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>HORIZONTAL</entry>
+<entry>CHAR</entry>
+<entry>CHAR</entry>
+</row>
+<row>
+<entry/>
+<entry>LOFT</entry>
+<entry>TEMPURATURE</entry>
+<entry>FORCE</entry>
+<entry>ELONGATION</entry>
+</row>
+<row>
+<entry>COMPONENT</entry>
+<entry>(inches)</entry>
+<entry>(&#xb0; F.)</entry>
+<entry>(lbs.)</entry>
+<entry>(inches)</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>Horizontally</entry>
+<entry>0.81</entry>
+<entry>563</entry>
+<entry>1.08</entry>
+<entry>0.33</entry>
+</row>
+<row>
+<entry>Oriented 80%</entry>
+</row>
+<row>
+<entry>Fire Retardant</entry>
+</row>
+<row>
+<entry>Treated Rayon<sup>1</sup></entry>
+</row>
+<row>
+<entry>Vertically</entry>
+<entry>0.78</entry>
+<entry>602</entry>
+<entry>1.11</entry>
+<entry>0.51</entry>
+</row>
+<row>
+<entry>Oriented 70%</entry>
+</row>
+<row>
+<entry>Fire Retardant</entry>
+</row>
+<row>
+<entry>Treated</entry>
+</row>
+<row>
+<entry>Lyocell<sup>2</sup></entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="center" rowsep="1"/>
+</row>
+<row>
+<entry namest="1" nameend="5" align="left" id="FOO-00001"><sup>1</sup>Comparative</entry>
+</row>
+<row>
+<entry namest="1" nameend="5" align="left" id="FOO-00002"><sup>2</sup>Inventive</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0034" num="0032">It has further been discovered that an ammonium polyphosphate fire retardant treated lyocell fiber batting material at a density of 0.8 ounces per square foot also met and/or exceeded the product safety standard codified in 16 C.F.R Part 1633 required, which represents a significant and unexpected result compared to prior art batting materials. As noted above, the prior art batting materials generally needed 80% fire retardant treated fibers at a density of 1 ounce per square foot to meet this codified standard whereas the data provided in Table 2 below indicates that only 70% of substantially vertically oriented fire retardant fibers at density of 0.8 ounce per square foot was needed to meet the product safety standard. The results provide a significant commercial advantage since less basis weight and materials are needed to meet the standards provided in 16 C.F.R 1633. The data further suggests that even lower percentages of flame retardant treated fibers and/or lower basis weights may be possible and still meet the product safety standard codified in 16 C.F.R Part 1633.</p>
+<p id="p-0035" num="0000">
+<tables id="TABLE-US-00002" num="00002">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="35pt" align="left"/>
+<colspec colname="2" colwidth="63pt" align="center"/>
+<colspec colname="3" colwidth="63pt" align="center"/>
+<colspec colname="4" colwidth="56pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="4" rowsep="1">TABLE 2</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry>Total Heat in 10</entry>
+</row>
+<row>
+<entry>Vertical</entry>
+<entry>Peak Heat Release</entry>
+<entry>Time to Peak Heat</entry>
+<entry>minutes (mega</entry>
+</row>
+<row>
+<entry>Fiber</entry>
+<entry>Rate (kilowatts)</entry>
+<entry>(minutes)</entry>
+<entry>joules)</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>Test 1</entry>
+<entry>40</entry>
+<entry>0.5</entry>
+<entry>6.6</entry>
+</row>
+<row>
+<entry>Test 2</entry>
+<entry>40</entry>
+<entry>0.5</entry>
+<entry>6.4</entry>
+</row>
+<row>
+<entry>Test 3</entry>
+<entry>38</entry>
+<entry>0.5</entry>
+<entry>5.0</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0036" num="0033">Moreover, it has been discovered that unlike most conventional fire retardant fibers, application of a fire retardant chemical permeates substantially throughout the cross sectional area of the lyocell fiber, which, without being bound by theory, attributes to lower amounts of flame retardant treated fibers required in the product blend to meet and/or exceed flammability standards described in 16 CFR Part 1633.</p>
+<p id="p-0037" num="0034">At least a portion of the fibers are treated with flame retardant chemistry, which may be provided as a durable or a non-durable finish. Durable flame retardant finishes are not removed by exposure to water or handling. Exemplary fire retardants include, without limitation, chlorinated flame retardant compounds, such as chlorinated hydrocarbons, chlorinated phosphate esters, chlorinated polyphosphates, chlorinated organic phosphonates, chloroalkyl phosphates, polychlorinated biphenyls, polychlorinated dibenzo-p-dioxins and dibenzofurans are molecules containing a high concentration of chlorine that generally act chemically in the gas phase. They are often used in combination with antimony trioxide and/or zinc borate as a synergist. Three main families of chlorinated compounds include: (a) chlorinated paraffins; (b) chlorinated alkyl phosphates; and (c) chlorinated cycloaliphatic compounds.</p>
+<p id="p-0038" num="0035">Examples of chlorinated compounds include dodecachlorodimethanodibe-nzocyclooctane, tris(2-chloroethyl)phosphate, tris(2-chloro-1-methylethyl)phosphate, tris(2-chloro-1-(chloromethyl)ethyl)phosphate (TDPP), tris(chloropropyl)phosphate, tris(dichloropropyl)phosphat-e, tris(2-chloroethyl)phosphite, ammonium chloride, chlorendic acid, chlorendic anhydride, tris(dichlorobropropyl)phosphite, Bis(hexachlorocyclopentadieno)cyclooctane, tris(dichloropropyl)phosphite, bis [bis(2-chloroethoxy)-phosphinyl]isop-ropylchloro-ethyl phosphate and MIREX&#xae; (1,1a,2,2,3,3a,4,5,5,5a,5b,6-dodecac-hloroocta-hydro-1,3,4-metheno-1H-cyclobuta(cd)pentalene).</p>
+<p id="p-0039" num="0036">Brominated fire retardant compounds, such as brominated organic compounds and brominated hydrocarbons, exhibit fire retardant efficiency in many materials. The three main families of brominated fire retardants include: (a) aliphatic brominated compounds; (b) aromatic brominated compounds; and (c) brominated epoxy fire retardants. Aliphatic brominated compounds include, for example, trisbromoneopentylphosphate, trisbromoneopentyl alcohol, dibromoneopentyl glycol, hexabromocyclohexane, hexabromocyclododecane, tetrabromo cyclopentane, hexabromo cyclohexane, hexabromo cyclooctane, hexabromo cyclodecane and hexabromo cyclododecane. Aromatic brominated compounds include, for example, hexabromo benzene, decabromobiphenyl, octabromodiphenyl oxide, hexabromobenzene, tris(tribromophenyl)triazine, tetrabromobisphenolA bis (2,3 dibromo propyl ether), dibromoneopentyl glycol, poly(pentabromobenzyl acrylate), pentabromodiphenyl ether, octabromodiphenyl oxide, octabromodiphenyl ether, decabromodiphenyl, decabromodiphenyl ethane, decabromodiphenyl oxide, decabromodiphenyl ether, tetrabromobisphenol A and brominated trimethylphenyl indan. Brominated epoxy fire retardants include brominated epoxy oligomers and polymers.</p>
+<p id="p-0040" num="0037">Other brominated fire retardant compounds include brominated diphenyl ethers, polybrominated diphenyl ethers, dimethyl-3-(hydroxymethy-lamino)-3-oxopropyl phosphonate, pentabromo toluene, tetrabromo chlorotoluene, pentabromo phenol, tribromo aniline, dibromobenzoic acid, pentabromotoluene, decabromodiphenyl oxide, tribromophenol, hexabromocyclododecane, brominated phosphorous, ammonium bromide, decabromobiphenyl oxide, pentabromobiphenyl oxide, decabromobiphenyl ether, 2,3-dibromopropanol, octabromobiphenyl ether, octabromodiphenyl oxide, tetrabromobiphenyl ether, hexabromocyclododecane, bis(tetrabromophthalimido) ethane, bis(tribromophenoxy)ethane, brominated polystyrene, brominated epoxy oligomer, polypentabromobenzyl acrylate, tetrabromobisphenol compounds, dibromopropylacrylate, dibromohexachlorocyclopentadienocyclooctane, N.sup.1-ethyl(bis)dibromonon-boranedicarboximide, decabromodiphenyloxide, decabromodiphenyl, hexabromocyclohexane, hexabromocyclododecane, tetrabromo bisphenol A, tetrabrombisphenol S, N&#x2032;N&#x2032;-ethylbis(dibromononbomene)dicarboximide, hexachlorocyclopentadieno-dibromocyclooctane, tetrabromodipenta-erythrito-1, pentabromoethylbenzene, decabromodiphenyl ether, tetrabromophthalic anhydride, hexabromobiphenyl, octabromobiphenyl, pentabromophenyl benzoate, bis-(2,3-dibromo-1-propyl)phthalate, tris(2,3-dibromopropyl)phosphate, N,N&#x2032;-ethylene-bis-(tetrabromophthalimide), tetrabromophthalic acid diol [2-hydroxypropyl-oxy-2-2-hydroxyethylethyl-tetrabromophthalate]-, polybrominated biphenyls, tetrabromobisphenol A, tris(2,3-dibromopropyl)phosphate, tris(2-chloroethyl)phosphite, tris(dichlorobromopropyl)phosphite, diethyl phosphite, dicyandiamide pyrophosphate, triphenyl phosphite, ammonium dimethyl phosphate, bis(2,3-dibromopropyl)phosphate, vinylbromide, polypentabromobenzyl acrylate, decabromodiphenyl oxide, pentabromodiphenyl oxide, 2,3-dibromopropanol, octabromodiphenyl oxide, polybrominated dibenzo-p-dioxins, dibenzofurans and bromo-chlorinate paraffins.</p>
+<p id="p-0041" num="0038">Phosphorous-based fire retardants are compounds that include phosphorous, such as halogenated phosphates (chlorinated phosphates, brominated phosphates and the like), non-halogenated phosphates, triphenyl phosphates, phosphate esters, polyols, phosphonium derivatives, phosphonates, phosphoric acid esters and phosphate esters, which are the largest class of phosphorous flame retardant compounds. Phosphorous-based fire retardants are usually composed of a phosphate core to which is bonded alkyl (generally straight chain) or aryl (aromatic ring) groups. Halogenated phosphate compounds are often introduced to decrease total halogen concentration. Non-halogenated phosphate compounds include, for example, red phosphorous, inorganic phosphates, insoluble ammonium phosphate, ammonium polyphosphate, ammonium urea polyphosphate, ammonium orthophosphate, ammonium carbonate phosphate, ammonium urea phosphate, diammonium phosphate, ammonium melamine phosphate, diethylenediamine polyphosphate, dicyandiamide polyphosphate, polyphosphate, urea phosphate, melamine pyrophosphate, melamine orthophosphate, melamine salt of boron-polyphosphate, melamine salt of dimethyl methyl phosphonate, melamine salt of dimethyl hydrogen phosphite, ammonium salt of boronpolyphosphate, urea salt of dimethyl methyl phosphonate, organophosphates, phosphonates and phosphine oxide. Phosphate esters include, for example, trialkyl derivatives, such as triethyl phosphate and trioctyl phosphate, triaryl derivatives, such as triphenyl phosphate, and aryl-alkyl derivatives, such as 2-ethylhexyl-diphenyl phosphate.</p>
+<p id="p-0042" num="0039">Other examples of phosphorous-based fire retardants include methylamine boron-phosphate, cyanuramide phosphate, cresyl diphenyl phosphate, tris(1-chloro-2-propyl)phosphate, tris(2-chloroethyl)phosphate, tris(2,3-dibromopropyl)phosphate, triphenyl phosphate, magnesium phosphate, tricresyl phosphate, hexachlorocyclopentadiene, isopropyl triphenyl phosphate, tricresol phosphate, ethanolamine dimethyl phosphate, cyclic phosphonate ester, monoammonium phosphate and diammonium phosphate, which permit a char formation as a result of esterification of hydroxyl groups with the phosphoric acid, trialkyl phosphates and phosphonates, such as triethyl phosphate and dimethyl, aryl phosphates, such as triaryl phosphates, isopropyl triphenyl phosphate, octylphenyl phosphate, triphenylphosphate, ammonium phosphates, such as ammonium phosphate, ammonium polyphosphate and potassium ammonium phosphate, cyanuramide phosphate, aniline phosphate, trimethylphosphoramide, tris(1-aziridinyl)phosphine oxide, triethylphosphate, Bis(5,5-dimethyl-2-thiono-1,3,2-dioxaphosphorinamyl)oxide, Bis(2-chloroethyl)vinyl phosphate, dimethylphosphono-N-hydroxyme-thyl-3-propionamide, tris(chloropropyl)phosphate, tris(2-butoxyethyl)phosphate, tris(2-chloroethyl)phosphate, tris(2-ethylhexyl)phosphate, tris(chloropropyl)phosphate, tetrakis(hydroxymethyl)phosphonium salts, such as tetrakis(hydroxymethyl)phosphonium chloride and tetrakis(hydroxymethyl)phosphonium sulfate, n-hydroxymethyl-3-(dimethylphosphono-)-propionamide, urea phosphate, melamine pyrophosphate, a melamine salt of boron-polyphosphate, an ammonium salt of boron-polyphosphate, dicyandiamide pyrophosphate, triphenyl phosphite, ammonium dimethyl phosphate, fyroltex HP, melamine orthophosphate, ammonium urea phosphate, ammonium melamine phosphate, a urea salt of dimethyl methyl phosphonate, a melamine salt of dimethyl methyl phosphonate, a melamine salt of dimethyl hydrogen phosphite, polychlorinated biphenyls, a variety of alkyl diaryl phosphates and mixtures of monomeric chloroethyl phosphonates and high boiling phosphonates.</p>
+<p id="p-0043" num="0040">Metal hydroxide fire retardants include inorganic hydroxides, such as aluminum hydroxide, magnesium hydroxide, aluminum trihydroxide (ATH) and hydroxycarbonate.</p>
+<p id="p-0044" num="0041">Melamine-based fire retardants are a family of non-halogenated flame retardants that include three chemical groups: (a) melamine(2,4,6-triamino-1,3,5 triazine); (b) melamine derivatives (including salts with organic or inorganic acids, such as boric acid, cyanuric acid, phosphoric acid or pyro/poly-phosphoric acid); and (c) melamine homologues. Melamine derivatives include, for example, melamine cyanurate (a salt of melamine and cyanuric acid)), melamine-mono-phosphate (a salt of melamine and phosphoric acid), melamine pyrophosphate and melamine polyphosphate. Melamine homologues include melam (1,3,5-triazin-2,4,6-tri-amine-n-(4,6-diamino-1,3,5-triazine-2-yl), melem (2,5,8-triamino 1,3,4,6,7,9,9b-heptaazaphenalene) and melon (poly[8-amino-1,3,4,6,7,9,9b- -heptaazaphenalene-2,5-diyl). Other melamine-based fire retardant compounds are set forth hereinabove.</p>
+<p id="p-0045" num="0042">Borate fire retardant compounds include zinc borate, borax (sodium borate), ammonium borate, and calcium borate. Zinc borate is a boron-based fire retardant having the chemical composition xZnO<sub>y</sub>B<sub>2</sub>O<sub>3</sub>zH<sub>2</sub>O. Zinc borate can be used alone, or in conjunction with other chemical compounds, such as antimony oxide, alumina trihydrate, magnesium hydroxide or red phosphorous. It acts through zinc halide or zinc oxyhalide, which accelerate the decomposition of halogen sources and promote char formation.</p>
+<p id="p-0046" num="0043">Silicon-based materials include linear and branched chain-type silicone with (hydroxy or methoxy) or without (saturated hydrocarbons) functional reactive groups.</p>
+<p id="p-0047" num="0044">Phosphonic acid derivatives include phosphonic acid, ethylenediamine salt of phosphonic acid, tetrakis hydroxymethyl phosphonium chloride and n-methyl dimethylphosphono propionamide.</p>
+<p id="p-0048" num="0045">Examples of intumescent substances include, but are not limited to, ammonium polyphosphate, boric acid, chlorinated paraffin, DI-pentaerythritol, melamine, mono-ammonium phosphate, pentaerythritol, phosphate esters, polytetrafluoroethylene, tributoxyethyl phosphate, triethyl phosphate, tris(2-ethylhexyl)phosphonate, urea, xylene and zinc borate.</p>
+<p id="p-0049" num="0046">Examples of powdered metal containing flame retardant substances, which can be employed alone or in combination with other flame retardant substances, include, but are not limited to, magnesium oxide, magnesium chloride, talcum, alumina hydrate, zinc oxide, zinc borate, alumina trihydrate, alumina magnesium, calcium silicate, sodium silicate, zeolite, magnesium hydroxide, sodium carbonate, calcium carbonate, ammonium molybdate, iron oxide, copper oxide, zinc phosphate, zinc chloride, clay, sodium dihydrogen phosphate, tin, molybdenum and zinc.</p>
+<p id="p-0050" num="0047">Examples of fire retardant substances that can be applied to the fibers also include boric acid, boron oxide, calcium borate, alumina trihydrate (alumina hydroxide), alumina carbonate, hydrated aluminum, aluminum hydroxide, antimony oxide, antimony trioxide, antimony pentoxide, sodium antimonate, magnesium carbonate, potassium fluorotitanate, potassium fluorozirconate, zinc oxide, hunite-hydromagnesite, ammonium octamolybdate, ammonium bromide, ammonium sulfate, ammonium carbonate, ammonium oxylate, barium metaborate, molybdenum trioxide, zinc hydroxystannate, sodium tungstate, sodium antimonate, sodium stannate, sodium aluminate, sodium silicate, sodium bisulfate, ammonium borate, ammonium iodide, tin compounds, molybdic oxide, sodium antimonate, ammonium sulfamate, ammonium silicate, quaternary ammonium hydroxide, aluminum tryhydroxide, tetrabromobisphenol A, titanium compounds, zirconium compounds, other zinc compounds, such as zinc stannate and zinc hydroxy-stannate, dioxins, diethyl phosphite, methylamine boron-phosphate, cyanoquanidine, thiourea, ethyl urea, dicyandiamide and halogen-free phosphonic acid derivatives.</p>
+<p id="p-0051" num="0048">The chemistry may be added to the fibers using application methods known to those skilled in the art. The flame retardant may be singular, or in combination with other finishing chemistries like antistats, lubricants, binders, antimicrobials, color, water and oil repellents, surfactants, and other chemical auxiliaries known to the art. Following the application of the chemistry, which may be done using water or other solvents as a vehicle for uniformly distributing the treatment, the substrate is centrifuged and dried. Exemplary application processes are disclosed in U.S. Pat. No. 7,736,696 to Tintoria-Piana, incorporated herein by reference in its entirety.</p>
+<p id="p-0052" num="0049">By way of example, a closed-loop system and process can used for applying fire retardant chemicals to the fibers. The untreated fibers are first positioned in a vessel such as a dye machine, which circulates the fire retardant chemicals. The fire retardant chemicals may be in the form of a solution, a dispersion or emulsion. In some embodiments, the fire retardant chemicals are in the form of an aqueous solution. The fire retardant chemical solution, dispersions, emulsion or otherwise may be at room temperature or at an elevated temperature. In most embodiments, the fire retardant chemical solution, dispersions, emulsion or otherwise will be at a temperature from about 4&#xb0; C. to about 100&#xb0; C.; in other embodiments, from 20 to 50&#xb0; C. and in still other embodiments, at about ambient temperature.</p>
+<p id="p-0053" num="0050">After absorption of the fire retardant composition on and/or into the fibers, non-absorbed fire retardant chemicals are recovered and re-used on subsequent batches of fibers. In some embodiments, the re-use of fire retardant chemicals can take place in the same vessel that is used to treat successive batches of fiber. Alternatively, recovery can be achieved by directing the non-absorbed fire retardant composition into a second dye machine containing additional fibers, or by extracting the fire retardant composition by centrifugation or other means, or by a combination of the two processes. The treated fibers may then be rinsed and dried. Alternatively, the fire retardant may be applied to the fibers at a subsequent stage of manufacturing, e.g., after blending with the binder fibers or forming the non-woven web, or after the non-woven web has been pleated.</p>
+<p id="p-0054" num="0051">Advantageously with respect to applying a fire retardant to lyocell fibers, because of its high moisture absorption and fiber cross section, it has been discovered that the fire retardant can be selected to permeate substantially throughout the cross sectional fiber structure unlike many types of fibers where the fire retardant coats exposed surfaces with minimal or no impregnation of the fire retardant into the fiber core. In one embodiment, ammonium polyphosphate can applied to the lyocell fiber and has been found to permeate substantially throughout a cross section of the lyocell fiber.</p>
+<p id="p-0055" num="0052">The batting from the treated fibers may be formed using one of several processes for converting a source of fiber into vertically oriented fibers as is generally known in the art. By way of example, the vertically oriented fibers can be formed as described in U.S. Pat. No. 5,702,801, incorporated herein by reference. In some embodiments, the peaks of the vertically oriented fibers in the batting material may be brushed or needle punched to improve the entwining of individual fibers of one peak into adjacent peaks. Adjacent peaks of vertically oriented fibers may be of substantially the same height, or alternatively may have different heights in a repeating pattern.</p>
+<p id="p-0056" num="0053">In some embodiments, the vertically oriented fibers can be in the form of pleats as discussed above. The pleats are formed from a cross laid non-woven web of fibers that can be less than 5 millimeters (mm) (i.e., about 0.2 inches) thick before pleating and in other embodiments, about 2 mm thick (e.g., a mattress approximately 2000 mm long can have about 500 pleats, each or two sheets). As previously described above, in most embodiments, the fibers are 0.25 to 4 inches long. During manufacture, once pleated, the pleated layer can be cross-needled to provide additional structural strength.</p>
+<p id="p-0057" num="0054">The pleating can provide a pleated layer having a thickness less than about 2 inches. By means of a carding process when the fibers are laid, greater than 75%, and greater than 90% in other embodiments of the fibers of the non-woven web are aligned substantially vertically oriented relative to the plane defined by an underlying mattress or cushioning article, for example.</p>
+<p id="p-0058" num="0055">As noted above, the non-woven web or the pleated layer can also include a binder fiber, which bonds the fibers to form a fiber mat. The binder fiber can be a bi-component fiber having a standard polyester core, e.g., having a melting point of about 250&#xb0; C. within a low melting temperature polyester surround having a melting point of about 130&#xb0; C. During manufacture, the non-woven web can be heat treated above the melting temperature of the fiber surround but beneath the temperature of the fiber core to cause the bi-component fibers to bind the fire retardant treated fibers. After pleating, the non-woven web can be cross-needled to enhance its strength. Optionally, the pleated layer may be cut during the manufacturing process as a result of the vertically lapped arrangement of fibers.</p>
+<p id="p-0059" num="0056">Flame retardant loading generally depends of the type of flame retardant and is generally at a loading of 13 to 20% based on a total weight of the fiber and the fire retardant.</p>
+<p id="p-0060" num="0057">Due to the vertical arrangement of the fibers in the pleated layer, when a load is applied to the cushioned article, e.g., mattress, the vertical arrangement of the fibers in the layer supports the load in a spring-like manner, compressing vertically to accommodate the shape of the load without flattening in the neighboring regions. In effect, the vertically oriented fibers, e.g., the vertically lapped formed pleats, act as vertical springs with cross needling to effect limited attachment between pleats but without causing pleats to flatten except under load. Moreover, when load is removed, the vertically oriented fibers readily recover it shape due to the independently spring-like nature of the vertically oriented fibers.</p>
+<p id="p-0061" num="0058">Advantageously, the vertically oriented fibers, e.g., vertically lapped formed pleats, have a low area density, which may result in lighter products and correspondingly less expensive manufacture and transport.</p>
+<p id="p-0062" num="0059">In order that the disclosure may be more readily understood, reference is made to the following examples, which are intended to illustrate the invention, but not limit the scope thereof.</p>
+<heading id="h-0005" level="1">EXAMPLES</heading>
+<heading id="h-0006" level="1">Example 1</heading>
+<p id="p-0063" num="0060">In this example, the fibers used to produce the vertically oriented fire retardant treated fiber batting product represented a blend of 70% ammonium polyphosphate treated lyocell with 30% low melt copolymer PET binder fiber. The fire retardant treated lyocell was treated via dye bath process under temperature and pressure to consistently load the fire retardant chemistry into the lyocell fiber.</p>
+<heading id="h-0007" level="1">Example 2</heading>
+<p id="p-0064" num="0061">In this example, a batting material layer including a plurality of substantially vertically oriented flame retardant treated lyocell fibers <b>1</b> was formed. The flame retardant treated lyocell fibers of Example 1 were mixed low molecular weight polyester at a weight ratio of 70:30. Lyocell fibers used were 3 denier per filament (dpf)&#xd7;2.5 inch cut length and were treated with ammonium polyphosphate. The low melt copolymer binder fiber was 4 dpf&#xd7;2.5&#x2033; cut length. The batting material had a basis weight of 1 ounce per square foot and was subjected to a fire test in accordance with 16 CFR Part 1633. The results provided with three samples are shown below in Table 3.</p>
+<p id="p-0065" num="0000">
+<tables id="TABLE-US-00003" num="00003">
+<table frame="none" colsep="0" rowsep="0">
+<tgroup align="left" colsep="0" rowsep="0" cols="4">
+<colspec colname="1" colwidth="56pt" align="left"/>
+<colspec colname="2" colwidth="63pt" align="center"/>
+<colspec colname="3" colwidth="42pt" align="center"/>
+<colspec colname="4" colwidth="56pt" align="center"/>
+<thead>
+<row>
+<entry namest="1" nameend="4" rowsep="1">TABLE 3</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry>Time to</entry>
+<entry>Total Heat in 10</entry>
+</row>
+<row>
+<entry>Vertical Oriented</entry>
+<entry>Peak Heat Release</entry>
+<entry>Peak Heat</entry>
+<entry>minutes (mega</entry>
+</row>
+<row>
+<entry>Lyocell Fiber</entry>
+<entry>Rate (kilowatts)</entry>
+<entry>(minutes)</entry>
+<entry>joules)</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>Test 1</entry>
+<entry>38</entry>
+<entry>0.5</entry>
+<entry>4.3</entry>
+</row>
+<row>
+<entry>Test 2</entry>
+<entry>38</entry>
+<entry>0.6</entry>
+<entry>5.4</entry>
+</row>
+<row>
+<entry>Test 3</entry>
+<entry>41</entry>
+<entry>0.5</entry>
+<entry>6.7</entry>
+</row>
+<row>
+<entry namest="1" nameend="4" align="center" rowsep="1"/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</tables>
+</p>
+<p id="p-0066" num="0062">The results shown above for the flame retardant treated lyocell fibers exceed the minimum requirements provided in 16 CFR Part 1633. For example, according to the standard applied to mattresses, the peak heat release cannot exceed 200 kilowatts and the total energy released in the first ten minutes of the test cannot exceed 15 megajoules. As shown above, the peak heat release was 38-41 kilowatts, which is significantly less than 200 kilowatts; and the total energy released in the first ten minutes was 4.3 to 6.7, which is significantly less than the standard maximum of 15 megajoules.</p>
+<heading id="h-0008" level="1">Example 3</heading>
+<p id="p-0067" num="0063">In this example, a comparison of moisture uptake was made between flame retardant treated lyocell fibers and untreated lyocell fibers. The flame retardant treated lyocell fibers were treated with ammonium polyphosphate via a dye bath process, rinsed, and dried. The fibers were exposed at room temperature to 55% and 98% relative humidity. The results are graphically shown in <figref idref="DRAWINGS">FIG. 5</figref>. As shown, there was no difference in moisture uptake between the treated and untreated lyocell fibers.</p>
+<p id="p-0068" num="0064">This written description uses examples to disclose the invention, including the best mode, and also to enable any person skilled in the art to make and use the invention. The patentable scope of the invention is defined by the claims, and may include other examples that occur to those skilled in the art. Such other examples are intended to be within the scope of the claims if they have structural elements that do not differ from the literal language of the claims, or if they include equivalent structural elements with insubstantial differences from the literal languages of the claims.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A fire resistant batting material, comprising:
+<claim-text>a layer having a top surface and a bottom surface, the layer comprising a plurality of substantially vertically oriented flame retardant treated fibers extending from the top surface to the bottom surface, wherein the substantially vertically oriented flame retardant treated fibers are fire retardant treated lyocell fibers having a substantially uniform fire retardant throughout a cross section thereof; and</claim-text>
+<claim-text>a binder material, wherein the substantially vertically oriented flame retardant treated fibers are greater than 50 percent of the layer.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The fire resistant batting material of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the lyocell fibers have an average length of 1.5 to 3.0 inches.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The fire resistant batting material of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the fire resistant batting material has a basis weight of 5 to 18 ounces per square yard.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The fire resistant batting material of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a loading of the fire retardant material of the substantially vertically oriented flame retardant fibers treated is in an amount effective to meet a flammability standard defined in 16 CFR Part 1633 (2007).</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The fire resistant batting material of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the fire retardant material of the substantially vertically oriented flame retardant treated fibers comprises halogenated compounds, phosphorous containing compounds, sulfate containing compounds, metal hydroxides, borates, silicon based compounds, melamine based compounds, phosphonic acid derivatives, intumescent compounds, and mixtures thereof.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The fire resistant batting material of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the batting material has a thickness greater than 0.5 inches to 3 inches.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The fire resistant batting material of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the substantially vertically oriented flame retardant treated lyocell fibers are treated with ammonium polyphosphate.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The fire resistant batting material of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the substantially vertically oriented flame retardant treated fibers extending from the top surface to the bottom surface are in the form of pleats.</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. A mattress comprising the fire resistant batting material of <claim-ref idref="CLM-00001">claim 1</claim-ref>.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. A method of fire blocking an article, comprising:
+<claim-text>combining layers comprising a fabric ticking, a layer of batting material, and an optional stitch backing layer, wherein the layer of batting material comprises a top surface, a bottom surface, a plurality of substantially vertically oriented flame retardant treated lyocell fibers extending from the top surface to the bottom surface, and a binder material;</claim-text>
+<claim-text>sewing the layers together to form a composite; and</claim-text>
+<claim-text>incorporating the composite into the article.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, further comprising a foam layer intermediate the layer of batting material and the optional stitch backing layer.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the layer of the batting material has a thickness of 0.5 to 3.0 inches.</claim-text>
+</claim>
+<claim id="CLM-00021" num="00021">
+<claim-text><b>21</b>. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the layer of the batting material has a basis weight of 5 to 18 oz/yd<sup>2</sup>.</claim-text>
+</claim>
+<claim id="CLM-00022" num="00022">
+<claim-text><b>22</b>. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the composite is quilted.</claim-text>
+</claim>
+<claim id="CLM-00023" num="00023">
+<claim-text><b>23</b>. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the fibers of the substantially vertically oriented flame retardant fibers have an average length of 0.5 to 3.0 inches.</claim-text>
+</claim>
+<claim id="CLM-00024" num="00024">
+<claim-text><b>24</b>. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the fire retardant material of the substantially vertically oriented flame retardant fibers comprises halogenated compounds, phosphorous containing compounds, metal hydroxides, borates, silicon based compounds, melamine based compounds, phosphonic acid derivatives, intumescent compounds, and mixtures thereof.</claim-text>
+</claim>
+<claim id="CLM-00025" num="00025">
+<claim-text><b>25</b>. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein a loading of the fire retardant material in and/or on the substantially vertically oriented flame retardant treated is in an amount effective to meet the flammability standard defined in 16 CFR 1633 (2007).</claim-text>
+</claim>
+<claim id="CLM-00026" num="00026">
+<claim-text><b>26</b>. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the substantially vertically oriented flame retardant treated fibers are greater than 50 percent of the layer.</claim-text>
+</claim>
+<claim id="CLM-00027" num="00027">
+<claim-text><b>27</b>. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the binder material is a bi-component polyester having a surround melting point of less than 130&#xb0; C.</claim-text>
+</claim>
+<claim id="CLM-00028" num="00028">
+<claim-text><b>28</b>. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein fire retardant treated lyocell fibers comprise ammonium polyphosphate.</claim-text>
+</claim>
+<claim id="CLM-00029" num="00029">
+<claim-text><b>29</b>. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein plurality of substantially vertically oriented flame retardant treated fibers extending from the top surface to the bottom surface are in the form of pleats.</claim-text>
+</claim>
+</claims>
+</us-patent-application>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v44-2014-04-03.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.4 2014-04-03" file="US20150096126A1-20150409.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20150325" date-publ="20150409">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20150096126</doc-number>
+<kind>A1</kind>
+<date>20150409</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>14048226</doc-number>
+<date>20131008</date>
+</document-id>
+</application-reference>
+<us-application-series-code>14</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>47</class>
+<subclass>C</subclass>
+<main-group>27</main-group>
+<subgroup>08</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20150409</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>A</section>
+<class>47</class>
+<subclass>C</subclass>
+<main-group>27</main-group>
+<subgroup>081</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20150409</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+</classifications-cpc>
+<classification-national>
+<country>US</country>
+<main-classification>  5706</main-classification>
+</classification-national>
+<invention-title id="d0e43">STRUCTURE OF INFLATABLE MATTRESS</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>CHAI</last-name>
+<first-name>SWO-CHUNG</first-name>
+<address>
+<city>TAIPEI CITY 104</city>
+<country>TW</country>
+</address>
+</addressbook>
+<residence>
+<country>TW</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>CHAI</last-name>
+<first-name>SWO-CHUNG</first-name>
+<address>
+<city>TAIPEI CITY 104</city>
+<country>TW</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An improved structure of an inflatable mattress comprises an upper leather article, a lower leather article, a circumferential member and a plurality of connection pieces. A sealed hollow mattress body is formed by the upper and lower leather articles and the circumferential member; the connection pieces are spaced apart from each other in equal distance in the hollow inner of the mattress. Each connection piece comprises upper and lower slats with a symmetrical structure. Each upper slat is connected to the upper leather article; each lower slat is connected to the lower leather article; a mesh fabric is connected between the upper and lower slats. With the connection pieces, the upper and lower leather articles of the mattress are attached together. An air valve is provided on the circumferential member of the inflatable mattress for pumping air into and releasing from the hollow inner of the mattress.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="152.15mm" wi="192.19mm" file="US20150096126A1-20150409-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="179.41mm" wi="149.35mm" orientation="landscape" file="US20150096126A1-20150409-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="196.09mm" wi="167.22mm" orientation="landscape" file="US20150096126A1-20150409-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="182.03mm" wi="156.97mm" orientation="landscape" file="US20150096126A1-20150409-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="215.31mm" wi="128.78mm" orientation="landscape" file="US20150096126A1-20150409-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="165.95mm" wi="141.65mm" orientation="landscape" file="US20150096126A1-20150409-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0002" num="0001">1. Technical Field</p>
+<p id="p-0003" num="0002">The present invention is related to an improved structure of an inflatable mattress, in particular, to an improved structure of an inflatable mattress comprising a plurality of connection pieces made of a composite material to attach an upper leather article with a lower leather article of the inflatable mattress in order to significantly increase a structural strength of the inflatable mattress and to lower an overall weight thereof such that a useful lifetime of the inflatable mattress is increased, which is a technical field related to a new type of improved inflatable mattress.</p>
+<p id="p-0004" num="0003">2. Description of Related Art</p>
+<p id="p-0005" num="0004">Most of the inflatable mattresses currently known adapt the design of an inflatable air bag with the utilization of an air valve provided at the side of the mattress for pumping air into the mattress for inflation thereof or to release the air by opening the air valve in order to reduce the size of the mattress for storage and package purposes.</p>
+<p id="p-0006" num="0005">Based on such fundamental structure, since most of the traditional inflatable mattresses are of the design of the aforementioned hollow air bag, the hollow portion between the mattress surface and the bottom needs to be provided with a plurality of connection pieces. Some of such connection pieces are of a belt structure, some are of a slat structure and some are of a column structure, which are provided to connect between the mattress surface and the bottom thereof for the purpose of forming the desired shape of the mattress after the inflation while, at the same time, increasing the structural strength of the mattress.</p>
+<p id="p-0007" num="0006">However, the aforementioned inflatable mattresses require the use belt shaped connection pieces, slat shaped connection pieces or column shaped connection pieces such that all of the two ends of the connection pieces are connected together with the mattress (such as using the high frequency welding manufacturing process for connection altogether). If the connection piece is broken or the connecting portion is loose, then such one connection piece loses its effect such that the mattress is deformed and the useful lifetime is shortened.</p>
+<p id="p-0008" num="0007">Nevertheless, if a greater number of connection pieces is used to improve the aforementioned situation, then there would be greater uses of materials with an excess of connection pieces, causing the manufacturing costs to be higher and the overall weight of the inflatable mattress to increase and also making it inconvenient to the operation as well. All of such shortcomings are common to traditional inflatable mattresses.</p>
+<heading id="h-0002" level="1">BRIEF SUMMARY OF THE INVENTION</heading>
+<p id="p-0009" num="0008">In view of the above, the present invention provides an improved structure of an inflatable mattress capable of overcoming the aforementioned defects and shortcomings of the traditional inflatable mattresses effectively.</p>
+<p id="p-0010" num="0009">Accordingly, a primary objective of the present invention is to provide a design using a plurality of connection pieces made of a composite material to connect with each other between an upper leather article and an lower leather article of the inflatable mattress such that the structural strength of the inflatable mattress can be significantly increased, the overall weight thereof can be reduced and the useful lifetime of the improved structure of the inflatable mattress can be increased.</p>
+<p id="p-0011" num="0010">A further objective of the present invention is to provide an improved inflatable mattress in which the aforementioned design for each one of the connection is of an increased structural strength for the connection pieces themselves and an increased number of the connecting portions with the mattress as well as a lowered weight of the connection pieces themselves in order to lower the overall weight of the mattress such that it is of improvement and advantages.</p>
+<p id="p-0012" num="0011">To achieve the aforementioned objectives, the present invention utilizes the following technical solutions.</p>
+<p id="p-0013" num="0012">An improved structure of an inflatable mattress of the present invention comprises an upper leather article, a lower leather article, a circumferential member and a plurality of connection pieces to form an assembly construction thereof.</p>
+<p id="p-0014" num="0013">The aforementioned upper leather article, the lower leather article and the circumferential member are identical to the ones of the traditional mattress to form a sealed hollow mattress body.</p>
+<p id="p-0015" num="0014">The circumferential member comprises an air valve on the circumferential member in order to pump air into and release air from the hollow inner portion of the mattress.</p>
+<p id="p-0016" num="0015">Each one of the connection pieces comprises an upper slat and a lower slat with a symmetrical structure; a mesh fabric is provided between the upper slats and the lower slats to connect therebetween.</p>
+<p id="p-0017" num="0016">Each one of the upper slats is connected to the upper leather article of the mattress; each one of the lower slats is connected to the lower leather article of the mattress; the upper leather article and the lower leather article of the mattress are attached to each other with the plurality of the connection pieces.</p>
+<p id="p-0018" num="0017">In terms of the design, the upper slat and the lower slat of each one of the aforementioned connection pieces are of a cross section of a symmetrical Y shape. Such design allows the connecting portions between each one of the connection pieces and the inflatable mattress to be increased in order to strength the connecting structure between each one of the connection pieces and the inflatable mattress.</p>
+<p id="p-0019" num="0018">The design of the mesh fabric connected between the upper slats and the lower slats allow a greater structural strength for each one of the connection pieces itself and, at the same time, reduce the leather usage of the connection slats in order to allow the overall weight of the inflatable mattress to be light and to achieve the predetermined objectives of the present invention.</p>
+<p id="p-0020" num="0019">The following provides a detailed description of the structures of the embodiments of the present invention along with the accompanied drawings.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0003" level="1">DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 1</figref> is a perspective of the inflatable mattress of the present invention.</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 2</figref> is an exploded view of the components of the inflatable mattress of the present invention.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 3</figref> is an enlarged view of the connection pieces in the inner portion of the inflatable mattress of the present invention.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 4</figref> is a cross sectional view of the inflatable mattress of the present invention.</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 5</figref> is an enlarged view of the cross section of the connection pieces in the inner portion of the inflatable mattress in <figref idref="DRAWINGS">FIG. 4</figref>.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">DESCRIPTION OF REFERENCE NUMERALS</heading>
+<p id="p-0026" num="0000">
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0025"><b>10</b> inflatable mattress</li>
+    <li id="ul0001-0002" num="0026"><b>11</b> upper leather article</li>
+    <li id="ul0001-0003" num="0027"><b>12</b> lower leather article</li>
+    <li id="ul0001-0004" num="0028"><b>13</b> circumferential member</li>
+    <li id="ul0001-0005" num="0029"><b>20</b> connection piece</li>
+    <li id="ul0001-0006" num="0030"><b>21</b> upper slat</li>
+    <li id="ul0001-0007" num="0031"><b>22</b> lower slat</li>
+    <li id="ul0001-0008" num="0032"><b>23</b> mesh fabric</li>
+    <li id="ul0001-0009" num="0033"><b>30</b> air valve</li>
+</ul>
+</p>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF EMBODIMENTS</heading>
+<p id="p-0027" num="0034"><figref idref="DRAWINGS">FIG. 1</figref> enclosed is a perspective view of the inflatable mattress <b>10</b> of the present invention.</p>
+<p id="p-0028" num="0035"><figref idref="DRAWINGS">FIG. 2</figref> is an exploded view of the components of the inflatable mattress <b>10</b> of the present invention.</p>
+<p id="p-0029" num="0036">As shown in <figref idref="DRAWINGS">FIG. 1</figref> and <figref idref="DRAWINGS">FIG. 2</figref>, the improved inflatable mattress <b>10</b> of the present invention comprises an upper leather article <b>11</b>, a lower leather article <b>12</b>, a circumferential member <b>13</b> and a plurality of connection pieces <b>20</b> to form the assembly construction.</p>
+<p id="p-0030" num="0037">As shown in <figref idref="DRAWINGS">FIG. 2</figref>, the upper leather article <b>11</b> forms the mattress surface of the mattress <b>10</b>.</p>
+<p id="p-0031" num="0038">The lower leather article <b>12</b> forms the mattress bottom of the mattress <b>10</b>.</p>
+<p id="p-0032" num="0039">The circumferential member <b>13</b> is connected to outer sides of the upper leather article <b>11</b> and the lower leather article <b>12</b> to form a circumference of the mattress <b>10</b>.</p>
+<p id="p-0033" num="0040">A sealed hollow mattress body is formed by the upper leather article <b>11</b>, the lower leather article <b>12</b> and the circumferential member <b>13</b>.</p>
+<p id="p-0034" num="0041">The circumferential member <b>13</b> comprises an air valve <b>30</b> provided at a suitable portion of the circumferential member <b>13</b> for pumping air into or release air from a hollow inner portion of the mattress.</p>
+<p id="p-0035" num="0042">Again, as shown in <figref idref="DRAWINGS">FIG. 2</figref>, each one of the connection pieces <b>20</b> is spaced apart from each other in an equal distance and is provided at the hollow inner portion of the sealed mattress body formed by the upper leather article <b>11</b>, the lower leather article <b>12</b> and the circumferential member <b>13</b> such that the inflatable mattress <b>10</b> is formed.</p>
+<p id="p-0036" num="0043"><figref idref="DRAWINGS">FIG. 3</figref> enclosed is an enlarged view of the structure of the connection pieces <b>20</b> at the inner portion of the inflatable mattress <b>10</b> of the present invention.</p>
+<p id="p-0037" num="0044"><figref idref="DRAWINGS">FIG. 4</figref> is a cross sectional view of the inflatable mattress <b>10</b> of the present invention.</p>
+<p id="p-0038" num="0045"><figref idref="DRAWINGS">FIG. 5</figref> is an enlarged view of the structure of the cross section of the connection pieces <b>20</b> at the inner portion of the inflatable mattress <b>10</b> in <figref idref="DRAWINGS">FIG. 4</figref>.</p>
+<p id="p-0039" num="0046">As shown in <figref idref="DRAWINGS">FIG. 3</figref> and <figref idref="DRAWINGS">FIG. 4</figref>, each one of the connection pieces <b>20</b> comprises an upper slat <b>21</b> and a lower slat <b>22</b> with a symmetrical structure; a mesh fabric <b>23</b> is provided between the upper slats and the lower slats to connect therebetween.</p>
+<p id="p-0040" num="0047">Again, as shown in <figref idref="DRAWINGS">FIG. 4</figref> and <figref idref="DRAWINGS">FIG. 5</figref>, each one of the upper slats <b>21</b> is connected to the upper leather article of the mattress; each one of the lower slats <b>22</b> is connected to the lower leather article of the mattress; with a plurality of connection pieces <b>20</b>, the upper leather article <b>11</b> and the lower leather article <b>12</b> of the mattress <b>10</b> can be firmly attached together.</p>
+<p id="p-0041" num="0048">As shown in <figref idref="DRAWINGS">FIG. 3</figref>, <figref idref="DRAWINGS">FIG. 4</figref> and <figref idref="DRAWINGS">FIG. 5</figref>, in terms of the design, the upper slat <b>21</b> and the lower slat <b>22</b> of each one of the aforementioned connection pieces <b>20</b> are of a cross section of a symmetrical Y shape; such design allows the number of the connecting portions (portions with the high frequency melting manufacturing process thereon) between each one of the connection pieces <b>20</b> with the upper leather article <b>11</b> and the lower leather article <b>12</b> of the inflatable mattress <b>10</b> to be significantly increased such that the connecting structure between each one of the connection pieces <b>20</b> and the inflatable mattress <b>10</b> is strengthened.</p>
+<p id="p-0042" num="0049">Again, as shown in <figref idref="DRAWINGS">FIG. 3</figref>, the design of the mesh fabric <b>23</b> connected between the upper slat <b>21</b> and lower slat <b>22</b> of each one of the connection pieces <b>20</b> allows the structural strength of each one of the connection pieces <b>20</b> itself to be greater and, at the same time, reduces the leather usage of the connection pieces <b>20</b> as well such that greater structural strength be obtained with less amount connection pieces <b>20</b>, which in turn, making the overall weight of the inflatable mattress <b>10</b> to be light and achieving the predetermined objectives of the present invention.</p>
+<p id="p-0043" num="0050">For the actual manufacturing, the upper leather article <b>11</b>, the lower leather article <b>12</b> and the circumferential member <b>13</b> of the resent invention can be selected from various manufacturing materials including such as PVC, TPU, TPU adhesives, EVA adhesives and other similar materials, which are not limited to a certain type of manufacturing material.</p>
+<p id="p-0044" num="0051">For the connection pieces <b>20</b> of the present invention, the upper slats <b>21</b> and the lower slats <b>22</b> thereof can be made of a material identical to that of the aforementioned upper leather article <b>11</b>, the lower leather article <b>12</b> and the circumferential member <b>13</b>. The mesh fabric <b>23</b> can be a mesh fabric made of polyester or similar material.</p>
+<p id="p-0045" num="0052">In view of the above, the present invention is able to achieve the expected functional objectives and is described in detail to be carried out by the person skilled in the art. Nevertheless, the embodiments above are provided for illustration purposes only; any equivalent structural modifications and amendments without deviating from the spirit of the present invention shall be deemed to be within the scope of the present invention.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. An improved structure of an inflatable mattress, comprising:
+<claim-text>an upper article forming a mattress surface of the mattress;</claim-text>
+<claim-text>a lower article forming a mattress bottom of the mattress;</claim-text>
+<claim-text>a circumferential member attached to outer sides of the upper article and the lower article to form a circumference of the mattress; and</claim-text>
+<claim-text>a plurality of connection pieces with each one of the connection pieces spaced apart from each other at a substantially equal distance and attached between the upper article and the lower article; each one of the connection pieces including:
+<claim-text>at least an upper slat and a lower slat with a symmetrical structure; each upper slats connecting to the upper article of the mattress; each lower slats connecting to the lower article of the mattress, each one of the upper and lower slats terminating at a pair of laterally opposed planar portions; and,</claim-text>
+<claim-text>a mesh fabric defining a matrix of holes with a substantially uniform distribution, the mesh fabric coupled to extend between the upper and lower slats, the mesh fabric being captured between the opposed planar portions at each of the upper and lower slats, to connect therebetween.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The improved structure of the inflatable mattress according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the circumferential member includes an air valve provided at a suitable portion of the circumferential member for pumping air into or releasing air from a hollow inner portion of the mattress.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The improved structure of the inflatable mattress according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein each one of the upper slats and the lower slats of the plurality of connection pieces is of a cross section of a symmetrical Y shape.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The improved structure of the inflatable mattress according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the upper slats, the lower slats, the upper article, the lower article, and the circumferential member are made of a first material and the mesh fabric is made of a second material different from said first material.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The improved structure of the inflatable mattress according to <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the mesh fabric includes polyester.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The improved structure of the inflatable mattress according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein at least one of the upper slats and lower slats includes a plurality of slat portions, the plurality of slat portions sealed in spaced parallel manner to a corresponding upper or lower article and converging therefrom to a connecting portion wherein the plurality of slat portions are connected to sandwich a portion of the mesh fabric therebetween.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. An improved structure of an inflatable mattress, comprising:
+<claim-text>an upper article forming a mattress surface of the mattress;</claim-text>
+<claim-text>a lower article forming a mattress bottom of the mattress;</claim-text>
+<claim-text>a circumferential member attached to outer sides of the upper article and the lower article to form a circumference of the mattress; and</claim-text>
+<claim-text>a plurality of connection pieces with each one of the connection pieces spaced apart from each other at a substantially equal distance and attached between the upper article and the lower article; each one of the connection pieces including:
+<claim-text>at least an upper slat and a lower slat, each upper slats connecting to the upper article of the mattress; each lower slats connecting to the lower article of the mattress;</claim-text>
+<claim-text>a mesh fabric coupled to extend between the upper slats and the lower slat, each upper slats and lower slats respectively includes a pair of opposing slat portions, each pair of opposing slat portions being sealed in a spaced parallel manner to a corresponding upper or lower article and terminating at a pair of laterally opposed planar portions, the mesh fabric being captured between the opposed planar portions at each of the upper and lower slats, to connect therebetween.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The improved structure of the inflatable mattress according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the circumferential member includes an air valve provided at a suitable portion of the circumferential member for pumping air into or releasing air from a hollow inner portion of the mattress.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The improved structure of the inflatable mattress according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein each one of the upper slats and the lower slats of the plurality of connection pieces is of a cross section of a symmetrical Y shape.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The improved structure of the inflatable mattress according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the upper slats, the lower slats, the upper article, the lower article, and the circumferential member are made of a first material and the mesh fabric is made of a second material different from said first material.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The improved structure of the inflatable mattress according to <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the mesh fabric includes polyester.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. The improved structure of the inflatable mattress according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the mesh fabric defines a matrix of holes with a substantially uniform distribution.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

@@ -17,7 +17,8 @@ class sub_main(main):
 
 
 
-
+s = sub_main('anill',23)
+s.test()
 
 # m = main("anil",28)
 # m.test()
@@ -29,11 +30,11 @@ c= 0
 # 	print(x,l)
 
 
-# l1 = [1,2,3,4]
-# l2 = [2,3,4,5]
+l1 = [1,2,3,4]
+l2 = [2,3,4,5]
 
-# for x,y in zip(l1,l2):
-# 	print (x,y)
+for x,y in zip(l1,l2):
+	print (x,y)
 
 # a,b = 4,5
 # print (a,b)
@@ -54,12 +55,12 @@ c= 0
 # for lett in h2:
 # 	if lett== h1:
 		# print ('foundd')
-# def first(msg):
-# 	def second():
-# 		print ('dsdsd',msg)
-# 	return second()
+def first(msg):
+	def second():
+		print ('dsdsd',msg)
+	return second()
 	
-# first("cc")
+first("cc")
 
 # def main(arg):
 # 	print ('inside main')
@@ -102,13 +103,3 @@ c= 0
 # except AssertiobbnError:b
 # 	print('getoutt')
 
-******************************aaaaaaaaaaaaaaaaaaaaaaaaaaaa
- llllllllll
- llllllllll 
- 12334343
- llllllllll 
- 12334343
- llllllllll 
- 12334343
- llllllllll 
- 12334343

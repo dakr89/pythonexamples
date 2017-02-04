@@ -31,7 +31,7 @@ import re
 # else:
 # 	print('no data')
 
-# match() : i the given text is at the begiing og the string it will match other wise None(below example Anil will appear middle of the text so match will return None)
+# match() : i the given text is at the begiing of the string it will match other wise None(below example Anil will appear middle of the text so match will return None)
 
 st_ring = 'This is Anil full name is Anilkumarreddy with surname Anilkumarreddy dappili'
 

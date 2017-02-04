@@ -1,26 +1,26 @@
 
 
-#  docstring question
+# #  docstring question
 
-# class kill:
-# 	def docstring(self):
-# 		"""  Hi  this is the example of doc string"""
-# 		print("hello")
+# # class kill:
+# # 	def docstring(self):
+# # 		"""  Hi  this is the example of doc string"""
+# # 		print("hello")
 
-# k = kill()
-# k.docstring()
+# # k = kill()
+# # k.docstring()
 
-# print(k.docstring.__doc__)
+# # print(k.docstring.__doc__)
 
-#  how to print a-z letters 
-# import string
-l = [1,2,3,4,1]
-# l1 = [ ord(i) for i in string.ascii_uppercase]
-# print(l1)
+# #  how to print a-z letters 
+# # import string
+# l = [1,2,3,4,1]
+# # l1 = [ ord(i) for i in string.ascii_uppercase]
+# # print(l1)
 
-#  map exampless
-# a= 'anil'
-# print(list(map(ord,a)))
+# #  map exampless
+# # a= 'anil'
+# # print(list(map(ord,a)))
 
 # x= map(lambda x,y : x*y,[1,2,3,4],[1,2,3,4])
 # print(list(x))
@@ -28,13 +28,13 @@ l = [1,2,3,4,1]
 # c = '_'.join(a)
 # print(c)
 
-# print(set(l))
-# words = ['hi','anil','welcome','anil','kumar']
-# dit = {}
-# for x in words:
-# 	dit[x] = len(x)
+# # print(set(l))
+# # words = ['hi','anil','welcome','anil','kumar']
+# # dit = {}
+# # for x in words:
+# # 	dit[x] = len(x)
 
-# print(dit)
+# # print(dit)
 
 
 # a = 'hi anil how r u welcome anil'
@@ -42,42 +42,42 @@ l = [1,2,3,4,1]
 # c = a.split(' ')
 # print(c)
 
-# s = set(c)
-# for x in s:
-# 	dit[x] = a.count(x)
+# # s = set(c)
+# # for x in s:
+# # 	dit[x] = a.count(x)
 
-# print(dit)
+# # print(dit)
 
-# print( "not emptyy it has values" if dit else "empty dude")
+# # print( "not emptyy it has values" if dit else "empty dude")
 
-# with open('abstract.py', 'r') as f:
-# 	for x in f.readline():
-# 		print(x)
+# # with open('abstract.py', 'r') as f:
+# # 	for x in f.readline():
+# # 		print(x)
 
 # print(sorted(['kumar','anil']))
 # k = [1,4,0,6,54,3]
-# print(k.sort())
+# print(sorted(k))
 
-# def test(n = [1,2,4]):
-# 	print(n)
-# test()
-# a,b,c = 'anil','kumar','reddy'
-# s = a + '[' + b + ':' + c + ']'
+def test(n = [1,2,4]):
+	print(n)
+test()
+a,b,c = 'anil','kumar','reddy'
+s = a + '[' + b + ':' + c + ']'
 
-# print(s)
+print(s)
 
 # x = [ y+'s' for y in ['a','b','c']]
 # print(x)
 import os
-# def listall(spath):
-# 	for child in os.listdir(spath):
-# 		ss = os.path.join(spath,child)
-# 		if os.path.isdir(ss):
-# 			listall(ss)
-# 		else:
-# 			print(ss)
+def listall(spath):
+	for child in os.listdir(spath):
+		ss = os.path.join(spath,child)
+		if os.path.isdir(ss):
+			listall(ss)
+		else:
+			print(ss)
 
-# listall('D:\gitrepos')
+listall('D:\gitrepos')
 
 # A0 = dict(zip(('a','b','c','d','e'),(1,2,3,4,5)))
 # A1 = range(10)

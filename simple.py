@@ -112,20 +112,35 @@
 # print(next(k))
 # print(next(k))
 # print(next(k))
-l = []
-f = open('intro.txt','r')
+# l = []
+# f = open('intro.txt','r')
 # for x in f.readlines():
 # 	print(x)
 
 # l2 = set(l)
 # for x in l2:
 # 	print(x,l.count(x))
-from collections import Counter
-cnt = Counter(f.read().split(' '))
-# print(cnt)
-for x in cnt.items():
-	print(x[0], x[1])
-# if 'anil' in f.read():
-# 	print(f.read())
+# from collections import Counter
+# cnt = Counter(f.read().split(' '))
+# # print(cnt)
+# for x in cnt.items():
+# 	print(x[0], x[1])
+# # if 'anil' in f.read():
+# # 	print(f.read())
 
 
+# class hello(object):
+# 	"""docstring for ClassName"""
+# 	def __init__(self, val):
+# 		super(hello, self).__init__()
+# 		self.val = val
+# 		print(self.val)
+
+# 	def display(self):
+# 		print('helooo',self.j,self.val)
+
+# h = hello(2)
+# # print(h.arg)
+# h.j = 4
+# print(dir(h))
+# h.display()

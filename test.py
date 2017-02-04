@@ -148,5 +148,9 @@ a = []
 # 	else:
 # 		print(n)
 
-k = 5
-print(k**2)
+import pickle
+
+s = {'name':23}
+ss = pickle.dumps(s)
+print(pickle.loads(ss))
+
